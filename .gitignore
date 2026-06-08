@@ -1,0 +1,22 @@
+# CMake
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# VS Code
+.vscode/
+
+# Ejecutables
+*.exe
+
+# Objetos
+*.o
+*.obj
+
+# Librerías
+*.dll
+*.a
+*.lib
+
+# Logs
+*.log
