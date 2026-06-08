@@ -20,3 +20,6 @@ cmake-build-release/
 
 # Logs
 *.log
+
+# saves
+resources/saves/*.json

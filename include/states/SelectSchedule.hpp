@@ -25,4 +25,6 @@ public:
     void buttonCompletedMatter();
     void buttonSchedule();
     void buttonMatters();
+    void buttonSave();
+    void buttonLoad();
 };

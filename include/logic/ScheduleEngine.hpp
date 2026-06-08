@@ -25,6 +25,6 @@ public:
     std::vector<std::vector<std::string>> getSchedule(int start, int end);
     void quitMatterByIndex(int ind)
         { if (ind >= 0) completed_matters.erase(completed_matters.begin() + ind); }
-    void save(const std::string& path)
-    void load(const std::string& path)
+    void save(const std::string& path);
+    void load(const std::string& path);
 };

@@ -125,19 +125,35 @@ std::vector<std::vector<std::string>> ScheduleEngine::getSchedule(int start, int
 
 void ScheduleEngine::save(const std::string& path)
 {
+    std::cout << "Saving to: "
+              << std::filesystem::absolute(path)
+              << '\n';
+
     json data = {
-        {"all_records"       = all_records},
-        {"selected"          = selected},
-        {"completed_matters" = completed_matters}
+        {"all_records"      , all_records},
+        {"selected"         , selected},
+        {"completed_matters", completed_matters}
     };
+    std::cout << "work3" << std::endl;
     std::ofstream file(path);
+    if (!file.is_open()) {
+        std::cerr << "Could not create file: " << path << std::endl;
+        return;
+    }
     file << data.dump(4);
+    std::cout << "work4" << std::endl;
 }
 
 void ScheduleEngine::load(const std::string& path)
 {
+    std::cout << "Loading to: "
+              << std::filesystem::absolute(path)
+              << '\n';
+        
     std::ifstream file(path);
+    std::cout << "work1" << std::endl;
     if (!file.is_open()) return;
+    std::cout << "work2" << std::endl;
 
     json data = json::parse(file);
     all_records       = data["all_records"].get<std::vector<Subject>>();

@@ -17,9 +17,6 @@ include_directories(include)
 # 5. Crear el ejecutable
 add_executable(App ${SOURCES})
 
-# 6. Vincular las librerías de SFML
-target_link_libraries(App SFML::Graphics SFML::Window SFML::System)
-
 include(FetchContent)
 FetchContent_Declare(
     nlohmann_json
@@ -28,4 +25,10 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(nlohmann_json)
 
-target_link_libraries(tu_proyecto PRIVATE nlohmann_json::nlohmann_json)
+target_link_libraries(App
+    PRIVATE
+    SFML::Graphics
+    SFML::Window
+    SFML::System
+    nlohmann_json::nlohmann_json
+)

@@ -3,6 +3,7 @@
 #include "states/Matters.hpp"
 #include "ui/adapters/TableAdapter.hpp"
 #include <iostream>
+#include <filesystem>
 
 SelectSchedule::SelectSchedule(App& app_instance) : State(app_instance)
 {
@@ -44,6 +45,18 @@ SelectSchedule::SelectSchedule(App& app_instance) : State(app_instance)
     buttons["matters"]->setPosition(app.getSizeByPercent(5.f/8, 6.f/8));
     buttons["matters"]->setSize(app.getSizeByPercent(1.f/8, 1.f/8));
     buttons["matters"]->setFunc([this](){ buttonMatters(); });
+    
+    buttons["save"] = std::make_unique<Button>();
+    buttons["save"]->setText({font, "save", (unsigned int)size_font});
+    buttons["save"]->setPosition(app.getSizeByPercent(6.f/8, 6.f/8));
+    buttons["save"]->setSize(app.getSizeByPercent(1.f/8, 1.f/8));
+    buttons["save"]->setFunc([this](){ buttonSave(); });
+    
+    buttons["load"] = std::make_unique<Button>();
+    buttons["load"]->setText({font, "load", (unsigned int)size_font});
+    buttons["load"]->setPosition(app.getSizeByPercent(7.f/8, 6.f/8));
+    buttons["load"]->setSize(app.getSizeByPercent(1.f/8, 1.f/8));
+    buttons["load"]->setFunc([this](){ buttonLoad(); });
     
 
     std::vector<float> proportions = {1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1};
@@ -130,4 +143,18 @@ void SelectSchedule::buttonSchedule()
 void SelectSchedule::buttonMatters()
 {
     app.changeState(std::make_unique<Matters>(app));
+}
+
+void SelectSchedule::buttonSave()
+{
+    app.getEngine().save("../resources/saves/1.json");
+    tables["selected"]->filtredByRows(app.getEngine().getSelected());
+    tables["filtred"]->filtredByRows(app.getEngine().getFiltred());
+}
+
+void SelectSchedule::buttonLoad()
+{
+    app.getEngine().load("../resources/saves/1.json");
+    tables["selected"]->filtredByRows(app.getEngine().getSelected());
+    tables["filtred"]->filtredByRows(app.getEngine().getFiltred());
 }
