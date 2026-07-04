@@ -9,7 +9,7 @@ Schedule::Schedule(App& app_instance) : State(app_instance)
         std::cout << "error al cargar la fuente" << std::endl;
     }
     float size_row = app.getSizeByPercent(0.f, 1.f/16).y;
-    schedule.setSize(app.getSizeByPercent(1.f/2, 7.f/8));
+    schedule.setSize(app.getSizeByPercent(1.f, 7.f/8));
     schedule.setSizeRow(size_row);
     schedule.setProportions({1, 1, 1, 1, 1, 1, 1, 1});
     schedule.setHeaders(tableAdapter(Subject::getHeadersSchedule(), font, size_font));

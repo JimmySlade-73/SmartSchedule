@@ -3,7 +3,7 @@
 #include <iostream>
 
 App::App() {
-    window.create(sf::VideoMode({1280, 720}), "Horario Dinamico");
+    window.create(sf::VideoMode({1280, 720}), "SmartSchedule");
     engine.loadData("../resources/data/data.txt");
     
     currentState = std::make_unique<SelectSchedule>(*this);

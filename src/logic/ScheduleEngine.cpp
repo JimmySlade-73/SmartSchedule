@@ -33,7 +33,7 @@ void ScheduleEngine::loadData(const std::string& path)
         s.modality = temp.at(temp.size() - 1);
 
         for (int i = 0; i < static_cast<int>(Day::TotalDays); i++) {
-            int index = temp.size() + i - 2 - static_cast<int>(Day::TotalDays);
+            int index = temp.size() + i - 1 - static_cast<int>(Day::TotalDays);
             std::string schedule_str = temp.at(index);
             if (auto block = parseTime(static_cast<Day>(i), schedule_str)) {
                 s.schedule.push_back(*block);
@@ -134,14 +134,12 @@ void ScheduleEngine::save(const std::string& path)
         {"selected"         , selected},
         {"completed_matters", completed_matters}
     };
-    std::cout << "work3" << std::endl;
     std::ofstream file(path);
     if (!file.is_open()) {
         std::cerr << "Could not create file: " << path << std::endl;
         return;
     }
     file << data.dump(4);
-    std::cout << "work4" << std::endl;
 }
 
 void ScheduleEngine::load(const std::string& path)
@@ -151,9 +149,7 @@ void ScheduleEngine::load(const std::string& path)
               << '\n';
         
     std::ifstream file(path);
-    std::cout << "work1" << std::endl;
     if (!file.is_open()) return;
-    std::cout << "work2" << std::endl;
 
     json data = json::parse(file);
     all_records       = data["all_records"].get<std::vector<Subject>>();

@@ -1,64 +1,88 @@
 {
     "all_records": [
         {
-            "id": "6846",
+            "id": "5723",
             "modality": "Mixto",
             "name": "Precalculo",
             "schedule": [
                 {
-                    "day": 5,
-                    "end": 13,
-                    "start": 10
-                },
-                {
-                    "day": 6,
-                    "end": 19,
-                    "start": 17
-                }
-            ],
-            "semester": 1,
-            "semesterTag": "1"
-        },
-        {
-            "id": "6847",
-            "modality": "Mixto",
-            "name": "Precalculo",
-            "schedule": [
-                {
-                    "day": 3,
+                    "day": 2,
                     "end": 21,
                     "start": 18
                 },
                 {
                     "day": 6,
-                    "end": 8,
-                    "start": 6
+                    "end": 17,
+                    "start": 15
                 }
             ],
             "semester": 1,
             "semesterTag": "1"
         },
         {
-            "id": "7252",
+            "id": "5724",
+            "modality": "Mixto",
+            "name": "Precalculo",
+            "schedule": [
+                {
+                    "day": 4,
+                    "end": 13,
+                    "start": 10
+                },
+                {
+                    "day": 6,
+                    "end": 11,
+                    "start": 9
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5208",
             "modality": "Presencial",
-            "name": "Introduccion A La Ingenieria",
+            "name": "Diseño Y Modelado Asisitdo Por",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 16,
+                    "start": 14
+                },
+                {
+                    "day": 1,
+                    "end": 17,
+                    "start": 14
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5212",
+            "modality": "Presencial",
+            "name": "Diseño Y Modelado Asisitdo Por",
             "schedule": [
                 {
                     "day": 1,
                     "end": 20,
                     "start": 18
+                },
+                {
+                    "day": 5,
+                    "end": 10,
+                    "start": 7
                 }
             ],
             "semester": 1,
             "semesterTag": "1"
         },
         {
-            "id": "7256",
+            "id": "6160",
             "modality": "Presencial",
             "name": "Introduccion A La Ingenieria",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 18,
                     "start": 16
                 }
@@ -67,36 +91,106 @@
             "semesterTag": "1"
         },
         {
-            "id": "6255",
+            "id": "6161",
             "modality": "Presencial",
-            "name": "Diseño Y Modelado Asisitdo Por",
+            "name": "Introduccion A La Ingenieria",
             "schedule": [
                 {
-                    "day": 1,
-                    "end": 16,
-                    "start": 14
-                },
-                {
-                    "day": 2,
-                    "end": 17,
-                    "start": 14
+                    "day": 0,
+                    "end": 20,
+                    "start": 18
                 }
             ],
             "semester": 1,
             "semesterTag": "1"
         },
         {
-            "id": "6257",
+            "id": "5278",
             "modality": "Presencial",
-            "name": "Diseño Y Modelado Asisitdo Por",
+            "name": "Quimica General",
             "schedule": [
                 {
                     "day": 2,
-                    "end": 20,
-                    "start": 18
+                    "end": 13,
+                    "start": 11
                 },
                 {
+                    "day": 3,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5279",
+            "modality": "Presencial",
+            "name": "Quimica General",
+            "schedule": [
+                {
+                    "day": 4,
+                    "end": 22,
+                    "start": 20
+                },
+                {
+                    "day": 5,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5172",
+            "modality": "Virtual",
+            "name": "Filosofia Uniagrarista",
+            "schedule": [
+                {
                     "day": 6,
+                    "end": 3,
+                    "start": 1
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5173",
+            "modality": "Virtual",
+            "name": "Filosofia Uniagrarista",
+            "schedule": [
+                {
+                    "day": 6,
+                    "end": 5,
+                    "start": 3
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5174",
+            "modality": "Virtual",
+            "name": "Filosofia Uniagrarista",
+            "schedule": [
+                {
+                    "day": 6,
+                    "end": 7,
+                    "start": 5
+                }
+            ],
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": "5187",
+            "modality": "Presencial",
+            "name": "Comunicacion",
+            "schedule": [
+                {
+                    "day": 2,
                     "end": 10,
                     "start": 7
                 }
@@ -105,112 +199,12 @@
             "semesterTag": "1"
         },
         {
-            "id": "6462",
-            "modality": "Presencial",
-            "name": "Quimica General",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 13,
-                    "start": 11
-                },
-                {
-                    "day": 4,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 1,
-            "semesterTag": "1"
-        },
-        {
-            "id": "6463",
-            "modality": "Presencial",
-            "name": "Quimica General",
-            "schedule": [
-                {
-                    "day": 5,
-                    "end": 22,
-                    "start": 20
-                },
-                {
-                    "day": 6,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 1,
-            "semesterTag": "1"
-        },
-        {
-            "id": "6209",
-            "modality": "Virtual",
-            "name": "Filosofia Uniagrarista",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 2,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 1,
-            "semesterTag": "1"
-        },
-        {
-            "id": "6210",
-            "modality": "Virtual",
-            "name": "Filosofia Uniagrarista",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 4,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 1,
-            "semesterTag": "1"
-        },
-        {
-            "id": "6211",
-            "modality": "Virtual",
-            "name": "Filosofia Uniagrarista",
-            "schedule": [
-                {
-                    "day": 5,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 6,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 1,
-            "semesterTag": "1"
-        },
-        {
-            "id": "6241",
+            "id": "5188",
             "modality": "Presencial",
             "name": "Comunicacion",
             "schedule": [
                 {
                     "day": 3,
-                    "end": 10,
-                    "start": 7
-                },
-                {
-                    "day": 4,
                     "end": 21,
                     "start": 18
                 }
@@ -219,12 +213,12 @@
             "semesterTag": "1"
         },
         {
-            "id": "6500",
+            "id": "5635",
             "modality": "Presencial",
             "name": "Algebra Lineal",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 1,
                     "end": 13,
                     "start": 10
                 }
@@ -233,68 +227,40 @@
             "semesterTag": "2"
         },
         {
-            "id": "6501",
+            "id": "5636",
             "modality": "Presencial",
             "name": "Algebra Lineal",
-            "schedule": [
-                {
-                    "day": 4,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 2,
-            "semesterTag": "2"
-        },
-        {
-            "id": "6502",
-            "modality": "Presencial",
-            "name": "Algebra Lineal",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 2,
-            "semesterTag": "2"
-        },
-        {
-            "id": "6509",
-            "modality": "Presencial",
-            "name": "Calculo Diferencial",
             "schedule": [
                 {
                     "day": 3,
-                    "end": 10,
-                    "start": 7
+                    "end": 13,
+                    "start": 10
                 }
             ],
             "semester": 2,
             "semesterTag": "2"
         },
         {
-            "id": "6510",
+            "id": "5637",
             "modality": "Presencial",
-            "name": "Calculo Diferencial",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 17,
-                    "start": 14
-                }
-            ],
-            "semester": 2,
-            "semesterTag": "2"
-        },
-        {
-            "id": "6511",
-            "modality": "Presencial",
-            "name": "Calculo Diferencial",
+            "name": "Algebra Lineal",
             "schedule": [
                 {
                     "day": 5,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": "5649",
+            "modality": "Presencial",
+            "name": "Calculo Diferencial",
+            "schedule": [
+                {
+                    "day": 4,
                     "end": 21,
                     "start": 18
                 }
@@ -303,18 +269,13 @@
             "semesterTag": "2"
         },
         {
-            "id": "6498",
+            "id": "5650",
             "modality": "Presencial",
-            "name": "Fisica Mecanica",
+            "name": "Calculo Diferencial",
             "schedule": [
                 {
                     "day": 2,
                     "end": 17,
-                    "start": 14
-                },
-                {
-                    "day": 4,
-                    "end": 16,
                     "start": 14
                 }
             ],
@@ -322,17 +283,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6499",
+            "id": "5651",
             "modality": "Presencial",
-            "name": "Fisica Mecanica",
+            "name": "Calculo Diferencial",
             "schedule": [
                 {
-                    "day": 1,
-                    "end": 20,
-                    "start": 18
-                },
-                {
-                    "day": 6,
+                    "day": 2,
                     "end": 10,
                     "start": 7
                 }
@@ -341,26 +297,50 @@
             "semesterTag": "2"
         },
         {
-            "id": "6891",
+            "id": "5631",
             "modality": "Presencial",
-            "name": "Sostenibilidad Ambiental",
+            "name": "Fisica Mecanica",
             "schedule": [
                 {
-                    "day": 2,
-                    "end": 13,
-                    "start": 11
+                    "day": 1,
+                    "end": 17,
+                    "start": 14
+                },
+                {
+                    "day": 3,
+                    "end": 16,
+                    "start": 14
                 }
             ],
             "semester": 2,
             "semesterTag": "2"
         },
         {
-            "id": "6892",
+            "id": "5632",
+            "modality": "Presencial",
+            "name": "Fisica Mecanica",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 20,
+                    "start": 18
+                },
+                {
+                    "day": 5,
+                    "end": 10,
+                    "start": 7
+                }
+            ],
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": "5953",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 22,
                     "start": 20
                 }
@@ -369,12 +349,26 @@
             "semesterTag": "2"
         },
         {
-            "id": "6893",
+            "id": "5954",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 1,
+                    "end": 13,
+                    "start": 11
+                }
+            ],
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": "5955",
+            "modality": "Presencial",
+            "name": "Sostenibilidad Ambiental",
+            "schedule": [
+                {
+                    "day": 1,
                     "end": 20,
                     "start": 18
                 }
@@ -383,12 +377,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6894",
+            "id": "5956",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 2,
                     "end": 9,
                     "start": 7
                 }
@@ -397,12 +391,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6895",
+            "id": "5957",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 2,
                     "end": 11,
                     "start": 9
                 }
@@ -411,12 +405,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6896",
+            "id": "5958",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 2,
                     "end": 16,
                     "start": 14
                 }
@@ -425,12 +419,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6897",
+            "id": "5959",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 4,
+                    "day": 3,
                     "end": 13,
                     "start": 11
                 }
@@ -439,12 +433,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6898",
+            "id": "5961",
             "modality": "Presencial",
             "name": "Sostenibilidad Ambiental",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 22,
                     "start": 20
                 }
@@ -453,59 +447,53 @@
             "semesterTag": "2"
         },
         {
-            "id": "6146",
+            "id": "5155",
             "modality": "Virtual",
             "name": "Humanismo Y Paz",
             "schedule": [
                 {
                     "day": 6,
-                    "end": 9,
-                    "start": 6
+                    "end": 4,
+                    "start": 1
                 }
             ],
             "semester": 2,
             "semesterTag": "2"
         },
         {
-            "id": "6147",
+            "id": "5156",
+            "modality": "Virtual",
+            "name": "Humanismo Y Paz",
+            "schedule": [
+                {
+                    "day": 6,
+                    "end": 7,
+                    "start": 4
+                }
+            ],
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": "5157",
             "modality": "Presencial",
             "name": "Humanismo Y Paz",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 16,
-                    "start": 13
-                }
-            ],
+            "schedule": [],
             "semester": 2,
             "semesterTag": "2"
         },
         {
-            "id": "6148",
-            "modality": "Virtual",
-            "name": "Humanismo Y Paz",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 19,
-                    "start": 16
-                }
-            ],
-            "semester": 2,
-            "semesterTag": "2"
-        },
-        {
-            "id": "6558",
+            "id": "6123",
             "modality": "Presencial",
             "name": "Ingles 1",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 9,
                     "start": 7
                 },
                 {
-                    "day": 3,
+                    "day": 2,
                     "end": 9,
                     "start": 7
                 }
@@ -514,64 +502,12 @@
             "semesterTag": "2"
         },
         {
-            "id": "6559",
-            "modality": "Presencial",
-            "name": "Ingles 1",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 18,
-                    "start": 16
-                },
-                {
-                    "day": 4,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 2,
-            "semesterTag": "2"
-        },
-        {
-            "id": "6560",
-            "modality": "Virtual",
-            "name": "Ingles 1",
-            "schedule": [
-                {
-                    "day": 4,
-                    "end": 8,
-                    "start": 6
-                },
-                {
-                    "day": 5,
-                    "end": 8,
-                    "start": 6
-                }
-            ],
-            "semester": 2,
-            "semesterTag": "2"
-        },
-        {
-            "id": "6819",
+            "id": "5698",
             "modality": "Presencial",
             "name": "Calculo Integral",
             "schedule": [
                 {
-                    "day": 1,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 3,
-            "semesterTag": "3"
-        },
-        {
-            "id": "6820",
-            "modality": "Presencial",
-            "name": "Calculo Integral",
-            "schedule": [
-                {
-                    "day": 3,
+                    "day": 2,
                     "end": 10,
                     "start": 7
                 }
@@ -580,12 +516,40 @@
             "semesterTag": "3"
         },
         {
-            "id": "6821",
+            "id": "5699",
+            "modality": "Presencial",
+            "name": "Calculo Integral",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 16,
+                    "start": 13
+                }
+            ],
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": "5700",
             "modality": "Presencial",
             "name": "Calculo Integral",
             "schedule": [
                 {
                     "day": 3,
+                    "end": 21,
+                    "start": 18
+                }
+            ],
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": "5701",
+            "modality": "Presencial",
+            "name": "Calculo Integral",
+            "schedule": [
+                {
+                    "day": 5,
                     "end": 17,
                     "start": 14
                 }
@@ -594,10 +558,34 @@
             "semesterTag": "3"
         },
         {
-            "id": "6822",
+            "id": "5936",
             "modality": "Presencial",
-            "name": "Calculo Integral",
+            "name": "Probabilidad Y Estadistica",
             "schedule": [
+                {
+                    "day": 1,
+                    "end": 13,
+                    "start": 11
+                },
+                {
+                    "day": 2,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": "5937",
+            "modality": "Presencial",
+            "name": "Probabilidad Y Estadistica",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 22,
+                    "start": 20
+                },
                 {
                     "day": 4,
                     "end": 21,
@@ -608,69 +596,17 @@
             "semesterTag": "3"
         },
         {
-            "id": "6823",
-            "modality": "Presencial",
-            "name": "Calculo Integral",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 3,
-            "semesterTag": "3"
-        },
-        {
-            "id": "6869",
-            "modality": "Presencial",
-            "name": "Probabilidad Y Estadistica",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 10,
-                    "start": 7
-                },
-                {
-                    "day": 5,
-                    "end": 9,
-                    "start": 7
-                }
-            ],
-            "semester": 3,
-            "semesterTag": "3"
-        },
-        {
-            "id": "6870",
-            "modality": "Presencial",
-            "name": "Probabilidad Y Estadistica",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 22,
-                    "start": 20
-                },
-                {
-                    "day": 5,
-                    "end": 21,
-                    "start": 18
-                }
-            ],
-            "semester": 3,
-            "semesterTag": "3"
-        },
-        {
-            "id": "6366",
+            "id": "5235",
             "modality": "Presencial",
             "name": "Algoritmos Y Programacion",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 16,
                     "start": 14
                 },
                 {
-                    "day": 2,
+                    "day": 1,
                     "end": 18,
                     "start": 15
                 }
@@ -679,17 +615,17 @@
             "semesterTag": "3"
         },
         {
-            "id": "6367",
+            "id": "5237",
             "modality": "Presencial",
             "name": "Algoritmos Y Programacion",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 20,
                     "start": 18
                 },
                 {
-                    "day": 6,
+                    "day": 5,
                     "end": 13,
                     "start": 10
                 }
@@ -698,17 +634,17 @@
             "semesterTag": "3"
         },
         {
-            "id": "6217",
+            "id": "5243",
             "modality": "Presencial",
             "name": "Circuitos Electricos",
             "schedule": [
                 {
-                    "day": 3,
-                    "end": 17,
-                    "start": 14
+                    "day": 0,
+                    "end": 13,
+                    "start": 10
                 },
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 17,
                     "start": 14
                 }
@@ -717,12 +653,12 @@
             "semesterTag": "3"
         },
         {
-            "id": "6220",
+            "id": "5244",
             "modality": "Presencial",
             "name": "Circuitos Electricos",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 1,
                     "end": 21,
                     "start": 18
                 },
@@ -736,12 +672,12 @@
             "semesterTag": "3"
         },
         {
-            "id": "6108",
+            "id": "5114",
             "modality": "Presencial",
             "name": "Emprendimiento E Innovacion",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 0,
                     "end": 20,
                     "start": 18
                 }
@@ -750,7 +686,35 @@
             "semesterTag": "3"
         },
         {
-            "id": "6109",
+            "id": "5986",
+            "modality": "Presencial",
+            "name": "Emprendimiento E Innovacion",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": "5987",
+            "modality": "Presencial",
+            "name": "Emprendimiento E Innovacion",
+            "schedule": [
+                {
+                    "day": 3,
+                    "end": 13,
+                    "start": 11
+                }
+            ],
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": "5988",
             "modality": "Presencial",
             "name": "Emprendimiento E Innovacion",
             "schedule": [
@@ -764,83 +728,40 @@
             "semesterTag": "3"
         },
         {
-            "id": "6110",
+            "id": "5989",
             "modality": "Presencial",
             "name": "Emprendimiento E Innovacion",
             "schedule": [
                 {
                     "day": 5,
-                    "end": 10,
-                    "start": 8
+                    "end": 9,
+                    "start": 7
                 }
             ],
             "semester": 3,
             "semesterTag": "3"
         },
         {
-            "id": "6561",
-            "modality": "Presencial",
-            "name": "Ingles 2",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 18,
-                    "start": 16
-                },
-                {
-                    "day": 4,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 3,
-            "semesterTag": "3"
-        },
-        {
-            "id": "6562",
+            "id": "6124",
             "modality": "Virtual",
             "name": "Ingles 2",
             "schedule": [
                 {
-                    "day": 4,
-                    "end": 8,
-                    "start": 6
-                },
-                {
-                    "day": 5,
-                    "end": 8,
-                    "start": 6
-                }
-            ],
-            "semester": 3,
-            "semesterTag": "3"
-        },
-        {
-            "id": "6563",
-            "modality": "Presencial",
-            "name": "Ingles 2",
-            "schedule": [
-                {
-                    "day": 5,
-                    "end": 18,
-                    "start": 16
-                },
-                {
                     "day": 6,
-                    "end": 13,
-                    "start": 11
+                    "end": 4,
+                    "start": 0
                 }
             ],
             "semester": 3,
             "semesterTag": "3"
         },
         {
-            "id": "6838",
+            "id": "5714",
             "modality": "Presencial",
             "name": "Ecuaciones Diferenciales",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 21,
                     "start": 18
                 }
@@ -849,12 +770,12 @@
             "semesterTag": "4"
         },
         {
-            "id": "6839",
+            "id": "5715",
             "modality": "Presencial",
             "name": "Ecuaciones Diferenciales",
             "schedule": [
                 {
-                    "day": 4,
+                    "day": 3,
                     "end": 17,
                     "start": 14
                 }
@@ -863,12 +784,12 @@
             "semesterTag": "4"
         },
         {
-            "id": "6840",
+            "id": "5716",
             "modality": "Presencial",
             "name": "Ecuaciones Diferenciales",
             "schedule": [
                 {
-                    "day": 4,
+                    "day": 3,
                     "end": 21,
                     "start": 18
                 }
@@ -877,12 +798,12 @@
             "semesterTag": "4"
         },
         {
-            "id": "6841",
+            "id": "5717",
             "modality": "Presencial",
             "name": "Ecuaciones Diferenciales",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 10,
                     "start": 7
                 }
@@ -891,12 +812,12 @@
             "semesterTag": "4"
         },
         {
-            "id": "6842",
+            "id": "5718",
             "modality": "Presencial",
             "name": "Ecuaciones Diferenciales",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 13,
                     "start": 10
                 }
@@ -905,17 +826,17 @@
             "semesterTag": "4"
         },
         {
-            "id": "6492",
+            "id": "5391",
             "modality": "Presencial",
             "name": "Fisica Electrica Y Magnetica",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 2,
                     "end": 18,
                     "start": 16
                 },
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 10,
                     "start": 7
                 }
@@ -924,17 +845,17 @@
             "semesterTag": "4"
         },
         {
-            "id": "6493",
+            "id": "5392",
             "modality": "Presencial",
             "name": "Fisica Electrica Y Magnetica",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 20,
                     "start": 18
                 },
                 {
-                    "day": 6,
+                    "day": 5,
                     "end": 10,
                     "start": 7
                 }
@@ -943,17 +864,17 @@
             "semesterTag": "4"
         },
         {
-            "id": "6361",
+            "id": "5249",
             "modality": "Presencial",
             "name": "Electronica Analoga",
             "schedule": [
                 {
-                    "day": 4,
+                    "day": 1,
                     "end": 13,
                     "start": 10
                 },
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 13,
                     "start": 10
                 }
@@ -962,36 +883,17 @@
             "semesterTag": "4"
         },
         {
-            "id": "6362",
+            "id": "5250",
             "modality": "Presencial",
             "name": "Electronica Analoga",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 2,
                     "end": 21,
                     "start": 18
                 },
                 {
-                    "day": 6,
-                    "end": 10,
-                    "start": 7
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6304",
-            "modality": "Presencial",
-            "name": "Materiales Para Ingenieria",
-            "schedule": [
-                {
-                    "day": 2,
-                    "end": 18,
-                    "start": 16
-                },
-                {
-                    "day": 3,
+                    "day": 5,
                     "end": 13,
                     "start": 10
                 }
@@ -1000,130 +902,36 @@
             "semesterTag": "4"
         },
         {
-            "id": "6305",
+            "id": "5247",
             "modality": "Presencial",
             "name": "Materiales Para Ingenieria",
             "schedule": [
                 {
-                    "day": 2,
-                    "end": 20,
-                    "start": 18
-                },
-                {
-                    "day": 4,
-                    "end": 21,
-                    "start": 18
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6139",
-            "modality": "Presencial",
-            "name": "Desarrollo Regional- Ruralidad",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 18,
-                    "start": 17
-                },
-                {
-                    "day": 2,
-                    "end": 18,
-                    "start": 17
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6140",
-            "modality": "Presencial",
-            "name": "Desarrollo Regional- Ruralidad",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 18,
-                    "start": 17
-                },
-                {
-                    "day": 4,
-                    "end": 18,
-                    "start": 17
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6141",
-            "modality": "Virtual",
-            "name": "Desarrollo Regional- Ruralidad",
-            "schedule": [
-                {
-                    "day": 5,
-                    "end": 18,
-                    "start": 17
-                },
-                {
-                    "day": 6,
-                    "end": 18,
-                    "start": 17
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6114",
-            "modality": "Presencial",
-            "name": "Introduc. A La Investigacion",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 16,
-                    "start": 14
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6115",
-            "modality": "Presencial",
-            "name": "Introduc. A La Investigacion",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6276",
-            "modality": "Presencial",
-            "name": "Historia, Arte Y Cultura",
-            "schedule": [
-                {
-                    "day": 1,
+                    "day": 0,
                     "end": 18,
                     "start": 16
+                },
+                {
+                    "day": 2,
+                    "end": 13,
+                    "start": 10
                 }
             ],
             "semester": 4,
             "semesterTag": "4"
         },
         {
-            "id": "6277",
+            "id": "5248",
             "modality": "Presencial",
-            "name": "Historia, Arte Y Cultura",
+            "name": "Materiales Para Ingenieria",
             "schedule": [
                 {
                     "day": 1,
+                    "end": 21,
+                    "start": 18
+                },
+                {
+                    "day": 4,
                     "end": 22,
                     "start": 20
                 }
@@ -1132,40 +940,26 @@
             "semesterTag": "4"
         },
         {
-            "id": "6278",
-            "modality": "Presencial",
-            "name": "Historia, Arte Y Cultura",
+            "id": "5129",
+            "modality": "Virtual",
+            "name": "Desarrollo Regional- Ruralidad",
             "schedule": [
                 {
-                    "day": 2,
-                    "end": 13,
-                    "start": 11
+                    "day": 6,
+                    "end": 9,
+                    "start": 7
                 }
             ],
             "semester": 4,
             "semesterTag": "4"
         },
         {
-            "id": "6279",
-            "modality": "Presencial",
-            "name": "Historia, Arte Y Cultura",
+            "id": "5130",
+            "modality": "Virtual",
+            "name": "Desarrollo Regional- Ruralidad",
             "schedule": [
                 {
-                    "day": 2,
-                    "end": 16,
-                    "start": 14
-                }
-            ],
-            "semester": 4,
-            "semesterTag": "4"
-        },
-        {
-            "id": "6280",
-            "modality": "Presencial",
-            "name": "Historia, Arte Y Cultura",
-            "schedule": [
-                {
-                    "day": 4,
+                    "day": 6,
                     "end": 11,
                     "start": 9
                 }
@@ -1174,12 +968,12 @@
             "semesterTag": "4"
         },
         {
-            "id": "6281",
-            "modality": "Presencial",
-            "name": "Historia, Arte Y Cultura",
+            "id": "5131",
+            "modality": "Virtual",
+            "name": "Desarrollo Regional- Ruralidad",
             "schedule": [
                 {
-                    "day": 4,
+                    "day": 6,
                     "end": 13,
                     "start": 11
                 }
@@ -1188,32 +982,41 @@
             "semesterTag": "4"
         },
         {
-            "id": "6564",
-            "modality": "Virtual",
-            "name": "Ingles 3",
+            "id": "5091",
+            "modality": "Presencial",
+            "name": "Introduc. A La Investigacion",
             "schedule": [
                 {
-                    "day": 1,
-                    "end": 8,
-                    "start": 6
-                },
-                {
-                    "day": 2,
-                    "end": 8,
-                    "start": 6
+                    "day": 0,
+                    "end": 16,
+                    "start": 14
                 }
             ],
             "semester": 4,
             "semesterTag": "4"
         },
         {
-            "id": "6565",
-            "modality": "Mediado",
-            "name": "Ingles 3",
+            "id": "5092",
+            "modality": "Presencial",
+            "name": "Introduc. A La Investigacion",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 0,
                     "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": "5224",
+            "modality": "Presencial",
+            "name": "Historia, Arte Y Cultura",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 18,
                     "start": 16
                 }
             ],
@@ -1221,12 +1024,82 @@
             "semesterTag": "4"
         },
         {
-            "id": "6827",
+            "id": "5225",
+            "modality": "Presencial",
+            "name": "Historia, Arte Y Cultura",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 22,
+                    "start": 20
+                }
+            ],
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": "5226",
+            "modality": "Presencial",
+            "name": "Historia, Arte Y Cultura",
+            "schedule": [
+                {
+                    "day": 5,
+                    "end": 13,
+                    "start": 11
+                }
+            ],
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": "5227",
+            "modality": "Presencial",
+            "name": "Historia, Arte Y Cultura",
+            "schedule": [
+                {
+                    "day": 1,
+                    "end": 16,
+                    "start": 14
+                }
+            ],
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": "5228",
+            "modality": "Presencial",
+            "name": "Historia, Arte Y Cultura",
+            "schedule": [
+                {
+                    "day": 3,
+                    "end": 13,
+                    "start": 11
+                }
+            ],
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": "6125",
+            "modality": "Virtual",
+            "name": "Ingles 3",
+            "schedule": [
+                {
+                    "day": 6,
+                    "end": 8,
+                    "start": 4
+                }
+            ],
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": "5704",
             "modality": "Presencial",
             "name": "Calculo Vectorial",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 1,
                     "end": 21,
                     "start": 18
                 }
@@ -1235,12 +1108,31 @@
             "semesterTag": "5"
         },
         {
-            "id": "6828",
+            "id": "5705",
             "modality": "Presencial",
             "name": "Calculo Vectorial",
             "schedule": [
                 {
                     "day": 4,
+                    "end": 17,
+                    "start": 14
+                }
+            ],
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": "5253",
+            "modality": "Presencial",
+            "name": "Electronica Digital",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 13,
+                    "start": 11
+                },
+                {
+                    "day": 2,
                     "end": 13,
                     "start": 10
                 }
@@ -1249,50 +1141,17 @@
             "semesterTag": "5"
         },
         {
-            "id": "6829",
-            "modality": "Presencial",
-            "name": "Calculo Vectorial",
-            "schedule": [
-                {
-                    "day": 5,
-                    "end": 17,
-                    "start": 14
-                }
-            ],
-            "semester": 5,
-            "semesterTag": "5"
-        },
-        {
-            "id": "6339",
+            "id": "5254",
             "modality": "Presencial",
             "name": "Electronica Digital",
             "schedule": [
-                {
-                    "day": 2,
-                    "end": 18,
-                    "start": 16
-                },
                 {
                     "day": 3,
-                    "end": 10,
-                    "start": 7
-                }
-            ],
-            "semester": 5,
-            "semesterTag": "5"
-        },
-        {
-            "id": "6343",
-            "modality": "Presencial",
-            "name": "Electronica Digital",
-            "schedule": [
-                {
-                    "day": 4,
                     "end": 21,
                     "start": 18
                 },
                 {
-                    "day": 6,
+                    "day": 5,
                     "end": 10,
                     "start": 8
                 }
@@ -1301,14 +1160,33 @@
             "semesterTag": "5"
         },
         {
-            "id": "6328",
+            "id": "5255",
             "modality": "Presencial",
             "name": "Sensores Y Actuadores Industri",
             "schedule": [
                 {
-                    "day": 3,
-                    "end": 17,
-                    "start": 14
+                    "day": 0,
+                    "end": 18,
+                    "start": 15
+                },
+                {
+                    "day": 1,
+                    "end": 18,
+                    "start": 15
+                }
+            ],
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": "5256",
+            "modality": "Presencial",
+            "name": "Sensores Y Actuadores Industri",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 21,
+                    "start": 18
                 },
                 {
                     "day": 5,
@@ -1320,36 +1198,17 @@
             "semesterTag": "5"
         },
         {
-            "id": "6331",
-            "modality": "Presencial",
-            "name": "Sensores Y Actuadores Industri",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 21,
-                    "start": 18
-                },
-                {
-                    "day": 6,
-                    "end": 17,
-                    "start": 14
-                }
-            ],
-            "semester": 5,
-            "semesterTag": "5"
-        },
-        {
-            "id": "6393",
+            "id": "5176",
             "modality": "Presencial",
             "name": "Mecanica De Fluidos",
             "schedule": [
                 {
                     "day": 2,
-                    "end": 13,
-                    "start": 11
+                    "end": 12,
+                    "start": 10
                 },
                 {
-                    "day": 4,
+                    "day": 3,
                     "end": 16,
                     "start": 13
                 }
@@ -1358,17 +1217,17 @@
             "semesterTag": "5"
         },
         {
-            "id": "6394",
+            "id": "5189",
             "modality": "Presencial",
             "name": "Mecanica De Fluidos",
             "schedule": [
                 {
-                    "day": 2,
-                    "end": 22,
-                    "start": 20
+                    "day": 3,
+                    "end": 20,
+                    "start": 18
                 },
                 {
-                    "day": 6,
+                    "day": 5,
                     "end": 13,
                     "start": 10
                 }
@@ -1377,36 +1236,17 @@
             "semesterTag": "5"
         },
         {
-            "id": "7239",
+            "id": "6024",
             "modality": "Presencial",
             "name": "Mecanica De Fluidos",
             "schedule": [
                 {
-                    "day": 1,
-                    "end": 11,
-                    "start": 9
-                },
-                {
-                    "day": 5,
-                    "end": 17,
-                    "start": 14
-                }
-            ],
-            "semester": 5,
-            "semesterTag": "5"
-        },
-        {
-            "id": "7240",
-            "modality": "Presencial",
-            "name": "Mecanica De Fluidos",
-            "schedule": [
-                {
-                    "day": 1,
+                    "day": 0,
                     "end": 21,
                     "start": 18
                 },
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 20,
                     "start": 18
                 }
@@ -1415,7 +1255,21 @@
             "semesterTag": "5"
         },
         {
-            "id": "7148",
+            "id": "6037",
+            "modality": "Presencial",
+            "name": "Economia Para Ingenieros",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 17,
+                    "start": 14
+                }
+            ],
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": "6038",
             "modality": "Presencial",
             "name": "Economia Para Ingenieros",
             "schedule": [
@@ -1429,26 +1283,12 @@
             "semesterTag": "5"
         },
         {
-            "id": "7149",
+            "id": "6039",
             "modality": "Presencial",
             "name": "Economia Para Ingenieros",
             "schedule": [
                 {
-                    "day": 2,
-                    "end": 17,
-                    "start": 14
-                }
-            ],
-            "semester": 5,
-            "semesterTag": "5"
-        },
-        {
-            "id": "7150",
-            "modality": "Presencial",
-            "name": "Economia Para Ingenieros",
-            "schedule": [
-                {
-                    "day": 4,
+                    "day": 3,
                     "end": 21,
                     "start": 18
                 }
@@ -1457,12 +1297,26 @@
             "semesterTag": "5"
         },
         {
-            "id": "7151",
+            "id": "6040",
             "modality": "Presencial",
             "name": "Economia Para Ingenieros",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 1,
+                    "end": 21,
+                    "start": 18
+                }
+            ],
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": "6041",
+            "modality": "Presencial",
+            "name": "Economia Para Ingenieros",
+            "schedule": [
+                {
+                    "day": 1,
                     "end": 10,
                     "start": 7
                 }
@@ -1471,12 +1325,12 @@
             "semesterTag": "5"
         },
         {
-            "id": "7152",
+            "id": "6042",
             "modality": "Presencial",
             "name": "Economia Para Ingenieros",
             "schedule": [
                 {
-                    "day": 6,
+                    "day": 5,
                     "end": 13,
                     "start": 10
                 }
@@ -1485,198 +1339,142 @@
             "semesterTag": "5"
         },
         {
-            "id": "6297",
-            "modality": "Presencial",
-            "name": "Microprocesadores Y Sistemas",
-            "schedule": [
-                {
-                    "day": 2,
-                    "end": 17,
-                    "start": 14
-                },
-                {
-                    "day": 5,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6298",
-            "modality": "Presencial",
-            "name": "Microprocesadores Y Sistemas",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 20,
-                    "start": 18
-                },
-                {
-                    "day": 5,
-                    "end": 21,
-                    "start": 18
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6308",
-            "modality": "Presencial",
-            "name": "Sistemas Dinamicos",
-            "schedule": [
-                {
-                    "day": 4,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6309",
-            "modality": "Presencial",
-            "name": "Sistemas Dinamicos",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6324",
-            "modality": "Presencial",
-            "name": "Electro Neumatica",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 13,
-                    "start": 11
-                },
-                {
-                    "day": 2,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6326",
-            "modality": "Presencial",
-            "name": "Electro Neumatica",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 22,
-                    "start": 20
-                },
-                {
-                    "day": 3,
-                    "end": 21,
-                    "start": 18
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6320",
-            "modality": "Presencial",
-            "name": "Estatica",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 10,
-                    "start": 7
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6116",
-            "modality": "Presencial",
-            "name": "Metodolog. De La Investigacion",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 16,
-                    "start": 14
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "6117",
-            "modality": "Presencial",
-            "name": "Metodolog. De La Investigacion",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "7302",
+            "id": "6049",
             "modality": "Presencial",
             "name": "Termodinamica",
             "schedule": [
                 {
+                    "day": 1,
+                    "end": 22,
+                    "start": 20
+                },
+                {
+                    "day": 3,
+                    "end": 21,
+                    "start": 18
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "6050",
+            "modality": "Presencial",
+            "name": "Termodinamica",
+            "schedule": [
+                {
+                    "day": 1,
+                    "end": 20,
+                    "start": 18
+                },
+                {
                     "day": 2,
+                    "end": 21,
+                    "start": 18
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "6051",
+            "modality": "Presencial",
+            "name": "Termodinamica",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 16,
+                    "start": 14
+                },
+                {
+                    "day": 3,
+                    "end": 17,
+                    "start": 14
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5257",
+            "modality": "Presencial",
+            "name": "Microprocesadores Y Sistemas",
+            "schedule": [
+                {
+                    "day": 0,
                     "end": 11,
                     "start": 8
                 },
                 {
-                    "day": 4,
-                    "end": 11,
-                    "start": 9
-                }
-            ],
-            "semester": 6,
-            "semesterTag": "6"
-        },
-        {
-            "id": "7303",
-            "modality": "Presencial",
-            "name": "Termodinamica",
-            "schedule": [
-                {
-                    "day": 1,
+                    "day": 2,
                     "end": 16,
                     "start": 14
-                },
-                {
-                    "day": 4,
-                    "end": 17,
-                    "start": 14
                 }
             ],
             "semester": 6,
             "semesterTag": "6"
         },
         {
-            "id": "7304",
+            "id": "5258",
             "modality": "Presencial",
-            "name": "Termodinamica",
+            "name": "Microprocesadores Y Sistemas",
             "schedule": [
+                {
+                    "day": 0,
+                    "end": 21,
+                    "start": 18
+                },
                 {
                     "day": 2,
                     "end": 22,
                     "start": 20
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5264",
+            "modality": "Presencial",
+            "name": "Sistemas Dinamicos",
+            "schedule": [
+                {
+                    "day": 5,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5259",
+            "modality": "Presencial",
+            "name": "Electro Neumatica",
+            "schedule": [
+                {
+                    "day": 1,
+                    "end": 13,
+                    "start": 10
+                },
+                {
+                    "day": 3,
+                    "end": 13,
+                    "start": 11
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5260",
+            "modality": "Presencial",
+            "name": "Electro Neumatica",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 20,
+                    "start": 18
                 },
                 {
                     "day": 4,
@@ -1688,7 +1486,49 @@
             "semesterTag": "6"
         },
         {
-            "id": "6292",
+            "id": "5261",
+            "modality": "Presencial",
+            "name": "Estatica",
+            "schedule": [
+                {
+                    "day": 5,
+                    "end": 10,
+                    "start": 7
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5096",
+            "modality": "Presencial",
+            "name": "Metodolog. De La Investigacion",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 16,
+                    "start": 14
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5097",
+            "modality": "Presencial",
+            "name": "Metodolog. De La Investigacion",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": "5287",
             "modality": "Presencial",
             "name": "Program. Orientada A Objetos",
             "schedule": [
@@ -1698,26 +1538,45 @@
                     "start": 18
                 },
                 {
-                    "day": 6,
-                    "end": 17,
-                    "start": 14
+                    "day": 5,
+                    "end": 13,
+                    "start": 10
                 }
             ],
             "semester": 7,
             "semesterTag": "7"
         },
         {
-            "id": "6365",
+            "id": "5285",
             "modality": "Presencial",
             "name": "Señales Y Sistemas",
             "schedule": [
                 {
                     "day": 1,
+                    "end": 18,
+                    "start": 16
+                },
+                {
+                    "day": 2,
+                    "end": 18,
+                    "start": 15
+                }
+            ],
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": "5286",
+            "modality": "Presencial",
+            "name": "Señales Y Sistemas",
+            "schedule": [
+                {
+                    "day": 0,
                     "end": 20,
                     "start": 18
                 },
                 {
-                    "day": 2,
+                    "day": 1,
                     "end": 21,
                     "start": 18
                 }
@@ -1726,29 +1585,34 @@
             "semesterTag": "7"
         },
         {
-            "id": "6311",
+            "id": "5271",
             "modality": "Presencial",
             "name": "Resistencia De Materiales",
             "schedule": [
                 {
-                    "day": 5,
-                    "end": 22,
-                    "start": 20
+                    "day": 0,
+                    "end": 18,
+                    "start": 16
                 },
                 {
-                    "day": 6,
-                    "end": 12,
-                    "start": 10
+                    "day": 3,
+                    "end": 18,
+                    "start": 16
                 }
             ],
             "semester": 7,
             "semesterTag": "7"
         },
         {
-            "id": "6120",
+            "id": "5288",
             "modality": "Presencial",
-            "name": "Seminario De Investigacion",
+            "name": "Resistencia De Materiales",
             "schedule": [
+                {
+                    "day": 4,
+                    "end": 22,
+                    "start": 20
+                },
                 {
                     "day": 5,
                     "end": 16,
@@ -1759,12 +1623,26 @@
             "semesterTag": "7"
         },
         {
-            "id": "6121",
+            "id": "5100",
             "modality": "Presencial",
             "name": "Seminario De Investigacion",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 4,
+                    "end": 16,
+                    "start": 14
+                }
+            ],
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": "5101",
+            "modality": "Presencial",
+            "name": "Seminario De Investigacion",
+            "schedule": [
+                {
+                    "day": 4,
                     "end": 20,
                     "start": 18
                 }
@@ -1773,17 +1651,17 @@
             "semesterTag": "7"
         },
         {
-            "id": "6400",
+            "id": "5199",
             "modality": "Presencial",
             "name": "Form. Y Evaluacion De Proyecto",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 1,
                     "end": 21,
                     "start": 18
                 },
                 {
-                    "day": 4,
+                    "day": 3,
                     "end": 22,
                     "start": 20
                 }
@@ -1792,17 +1670,36 @@
             "semesterTag": "7"
         },
         {
-            "id": "6578",
+            "id": "5598",
             "modality": "Presencial",
             "name": "Form. Y Evaluacion De Proyecto",
             "schedule": [
                 {
                     "day": 1,
+                    "end": 11,
+                    "start": 9
+                },
+                {
+                    "day": 3,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": "5604",
+            "modality": "Presencial",
+            "name": "Form. Y Evaluacion De Proyecto",
+            "schedule": [
+                {
+                    "day": 0,
                     "end": 22,
                     "start": 20
                 },
                 {
-                    "day": 6,
+                    "day": 5,
                     "end": 10,
                     "start": 7
                 }
@@ -1811,93 +1708,55 @@
             "semesterTag": "7"
         },
         {
-            "id": "6579",
-            "modality": "Presencial",
-            "name": "Form. Y Evaluacion De Proyecto",
-            "schedule": [
-                {
-                    "day": 2,
-                    "end": 11,
-                    "start": 9
-                },
-                {
-                    "day": 4,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 7,
-            "semesterTag": "7"
-        },
-        {
-            "id": "6294",
+            "id": "5292",
             "modality": "Presencial",
             "name": "Sistemas Inteligentes Int. Art",
             "schedule": [
                 {
                     "day": 1,
-                    "end": 18,
-                    "start": 16
-                },
-                {
-                    "day": 2,
-                    "end": 13,
-                    "start": 10
-                }
-            ],
-            "semester": 8,
-            "semesterTag": "8"
-        },
-        {
-            "id": "6295",
-            "modality": "Presencial",
-            "name": "Sistemas Inteligentes Int. Art",
-            "schedule": [
-                {
-                    "day": 2,
                     "end": 20,
                     "start": 18
                 },
                 {
-                    "day": 4,
-                    "end": 21,
-                    "start": 18
+                    "day": 5,
+                    "end": 17,
+                    "start": 14
                 }
             ],
             "semester": 8,
             "semesterTag": "8"
         },
         {
-            "id": "6300",
+            "id": "5289",
             "modality": "Presencial",
             "name": "Maquinas Electricas",
             "schedule": [
+                {
+                    "day": 0,
+                    "end": 13,
+                    "start": 10
+                },
                 {
                     "day": 2,
                     "end": 16,
                     "start": 14
-                },
-                {
-                    "day": 5,
-                    "end": 13,
-                    "start": 10
                 }
             ],
             "semester": 8,
             "semesterTag": "8"
         },
         {
-            "id": "6302",
+            "id": "5290",
             "modality": "Presencial",
             "name": "Maquinas Electricas",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 20,
                     "start": 18
                 },
                 {
-                    "day": 5,
+                    "day": 2,
                     "end": 21,
                     "start": 18
                 }
@@ -1906,61 +1765,99 @@
             "semesterTag": "8"
         },
         {
-            "id": "6310",
+            "id": "5291",
             "modality": "Presencial",
             "name": "Sistemas De Control Analogo",
             "schedule": [
                 {
-                    "day": 2,
+                    "day": 0,
                     "end": 22,
                     "start": 20
                 },
                 {
-                    "day": 5,
-                    "end": 18,
-                    "start": 15
+                    "day": 4,
+                    "end": 21,
+                    "start": 18
                 }
             ],
             "semester": 8,
             "semesterTag": "8"
         },
         {
-            "id": "6303",
+            "id": "5293",
             "modality": "Presencial",
             "name": "Procesos De Manufactura",
             "schedule": [
                 {
                     "day": 3,
-                    "end": 22,
-                    "start": 20
+                    "end": 20,
+                    "start": 18
                 },
                 {
-                    "day": 6,
-                    "end": 11,
-                    "start": 8
+                    "day": 5,
+                    "end": 10,
+                    "start": 7
                 }
             ],
             "semester": 8,
             "semesterTag": "8"
         },
         {
-            "id": "6314",
+            "id": "5294",
             "modality": "Presencial",
             "name": "Dinamica",
             "schedule": [
                 {
-                    "day": 6,
-                    "end": 17,
-                    "start": 14
+                    "day": 5,
+                    "end": 13,
+                    "start": 10
                 }
             ],
             "semester": 8,
             "semesterTag": "8"
         },
         {
-            "id": "6307",
+            "id": "5297",
             "modality": "Presencial",
             "name": "Sistemas De Control Digital",
+            "schedule": [
+                {
+                    "day": 3,
+                    "end": 18,
+                    "start": 16
+                },
+                {
+                    "day": 4,
+                    "end": 13,
+                    "start": 10
+                }
+            ],
+            "semester": 9,
+            "semesterTag": "9"
+        },
+        {
+            "id": "5298",
+            "modality": "Presencial",
+            "name": "Sistemas De Control Digital",
+            "schedule": [
+                {
+                    "day": 3,
+                    "end": 22,
+                    "start": 20
+                },
+                {
+                    "day": 5,
+                    "end": 10,
+                    "start": 7
+                }
+            ],
+            "semester": 9,
+            "semesterTag": "9"
+        },
+        {
+            "id": "5296",
+            "modality": "Presencial",
+            "name": "Automatiz. Procesos De Manufac",
             "schedule": [
                 {
                     "day": 1,
@@ -1968,84 +1865,46 @@
                     "start": 20
                 },
                 {
-                    "day": 6,
-                    "end": 17,
-                    "start": 14
-                }
-            ],
-            "semester": 9,
-            "semesterTag": "9"
-        },
-        {
-            "id": "6323",
-            "modality": "Presencial",
-            "name": "Automatiz. Procesos De Manufac",
-            "schedule": [
-                {
                     "day": 4,
-                    "end": 20,
+                    "end": 21,
                     "start": 18
-                },
-                {
-                    "day": 6,
-                    "end": 10,
-                    "start": 7
                 }
             ],
             "semester": 9,
             "semesterTag": "9"
         },
         {
-            "id": "6306",
+            "id": "5295",
             "modality": "Presencial",
             "name": "Diseño De Maquinas",
             "schedule": [
+                {
+                    "day": 0,
+                    "end": 20,
+                    "start": 18
+                },
                 {
                     "day": 2,
-                    "end": 18,
-                    "start": 16
-                },
-                {
-                    "day": 3,
-                    "end": 18,
-                    "start": 15
-                }
-            ],
-            "semester": 9,
-            "semesterTag": "9"
-        },
-        {
-            "id": "6372",
-            "modality": "Presencial",
-            "name": "Diseño De Maquinas",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 20,
+                    "end": 21,
                     "start": 18
-                },
-                {
-                    "day": 6,
-                    "end": 10,
-                    "start": 7
                 }
             ],
             "semester": 9,
             "semesterTag": "9"
         },
         {
-            "id": "6370",
+            "id": "5303",
             "modality": "Presencial",
             "name": "Robotica Aplicada",
             "schedule": [
                 {
-                    "day": 3,
-                    "end": 20,
+                    "day": 1,
+                    "end": 21,
                     "start": 18
                 },
                 {
-                    "day": 4,
-                    "end": 21,
+                    "day": 3,
+                    "end": 20,
                     "start": 18
                 }
             ],
@@ -2053,17 +1912,17 @@
             "semesterTag": "10"
         },
         {
-            "id": "6332",
+            "id": "5301",
             "modality": "Presencial",
             "name": "Diseño Mecatronico",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 20,
                     "start": 18
                 },
                 {
-                    "day": 5,
+                    "day": 2,
                     "end": 21,
                     "start": 18
                 }
@@ -2072,28 +1931,23 @@
             "semesterTag": "10"
         },
         {
-            "id": "7301",
-            "modality": "Presencial",
+            "id": "6057",
+            "modality": "Mixto",
             "name": "Opcion De Grado",
             "schedule": [
                 {
                     "day": 1,
-                    "end": 10,
-                    "start": 8
-                },
-                {
-                    "day": 2,
                     "end": 18,
                     "start": 16
                 },
                 {
                     "day": 3,
-                    "end": 10,
-                    "start": 8
+                    "end": 9,
+                    "start": 6
                 },
                 {
                     "day": 4,
-                    "end": 10,
+                    "end": 11,
                     "start": 8
                 }
             ],
@@ -2101,26 +1955,12 @@
             "semesterTag": "10"
         },
         {
-            "id": "6358",
+            "id": "5302",
             "modality": "Presencial",
-            "name": "Profundizacion Energias Alternativas 1",
+            "name": "Profundizacion Agricultura De Precision 1",
             "schedule": [
                 {
                     "day": 5,
-                    "end": 21,
-                    "start": 18
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6371",
-            "modality": "Presencial",
-            "name": "Profundizacion Nanobiotecnologia 2",
-            "schedule": [
-                {
-                    "day": 6,
                     "end": 10,
                     "start": 7
                 }
@@ -2129,26 +1969,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6364",
+            "id": "5299",
             "modality": "Presencial",
-            "name": "Profundizacion Telecomunicaciones 1",
+            "name": "Profundizacion Energias Alternativas 2",
             "schedule": [
                 {
                     "day": 5,
-                    "end": 18,
-                    "start": 15
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6363",
-            "modality": "Presencial",
-            "name": "Profundizacion Telecomunicaciones 2",
-            "schedule": [
-                {
-                    "day": 6,
                     "end": 13,
                     "start": 10
                 }
@@ -2157,68 +1983,40 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6345",
+            "id": "5304",
             "modality": "Presencial",
-            "name": "Deportiva Yoga",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 13,
-                    "start": 11
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6346",
-            "modality": "Presencial",
-            "name": "Deportiva Yoga",
+            "name": "Profundizacion Nanobiotecnologia 1",
             "schedule": [
                 {
                     "day": 5,
-                    "end": 13,
-                    "start": 11
+                    "end": 17,
+                    "start": 14
                 }
             ],
             "semester": 11,
             "semesterTag": "Electiva"
         },
         {
-            "id": "6335",
+            "id": "5300",
             "modality": "Presencial",
-            "name": "Deportiva Futbol Sala",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6336",
-            "modality": "Presencial",
-            "name": "Deportiva Futbol Sala",
+            "name": "Profundizacion Telecomunicaciones 2",
             "schedule": [
                 {
                     "day": 5,
-                    "end": 18,
-                    "start": 16
+                    "end": 17,
+                    "start": 14
                 }
             ],
             "semester": 11,
             "semesterTag": "Electiva"
         },
         {
-            "id": "6422",
+            "id": "6010",
             "modality": "Presencial",
-            "name": "Deportiva Rugby",
+            "name": "Deportiva Voleibol",
             "schedule": [
                 {
-                    "day": 1,
+                    "day": 0,
                     "end": 16,
                     "start": 14
                 }
@@ -2227,26 +2025,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6423",
+            "id": "6011",
             "modality": "Presencial",
-            "name": "Deportiva Rugby",
+            "name": "Deportiva Voleibol",
             "schedule": [
                 {
-                    "day": 3,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6424",
-            "modality": "Presencial",
-            "name": "Deportiva Ultimate Frisbee",
-            "schedule": [
-                {
-                    "day": 5,
+                    "day": 2,
                     "end": 13,
                     "start": 11
                 }
@@ -2255,26 +2039,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6425",
+            "id": "6006",
             "modality": "Presencial",
-            "name": "Deportiva Ultimate Frisbee",
+            "name": "Deportiva Baloncesto",
             "schedule": [
                 {
-                    "day": 6,
-                    "end": 9,
-                    "start": 7
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6348",
-            "modality": "Mediado",
-            "name": "Artistica Fotografia",
-            "schedule": [
-                {
-                    "day": 5,
+                    "day": 0,
                     "end": 18,
                     "start": 16
                 }
@@ -2283,104 +2053,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6349",
-            "modality": "Mediado",
-            "name": "Artistica Fotografia",
-            "schedule": [
-                {
-                    "day": 2,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6340",
-            "modality": "Mediado",
-            "name": "Artistica Diseño Podcast Y Contenido Int",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6341",
-            "modality": "Mediado",
-            "name": "Artistica Diseño Podcast Y Contenido Int",
+            "id": "6007",
+            "modality": "Presencial",
+            "name": "Deportiva Baloncesto",
             "schedule": [
                 {
                     "day": 4,
-                    "end": 20,
-                    "start": 18
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6186",
-            "modality": "Presencial",
-            "name": "Artistica Artes Y Narrativa",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6187",
-            "modality": "Presencial",
-            "name": "Artistica Artes Y Narrativa",
-            "schedule": [],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6251",
-            "modality": "Presencial",
-            "name": "en Ingenieria Habilidades Informaticas Ing.",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6253",
-            "modality": "Presencial",
-            "name": "en Ingenieria Habilidades Informaticas Ing.",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 22,
-                    "start": 20
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6202",
-            "modality": "Presencial",
-            "name": "en Ingenieria Innovacion Rural Para Ingenie.",
-            "schedule": [
-                {
-                    "day": 1,
                     "end": 16,
                     "start": 14
                 }
@@ -2389,9 +2067,23 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6203",
-            "modality": "Presencial",
-            "name": "en Ingenieria Innovacion Rural Para Ingenie.",
+            "id": "6012",
+            "modality": "Mediada",
+            "name": "Artistica Diseño Podcast Y Contenido Int",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "6013",
+            "modality": "Mediada",
+            "name": "Artistica Diseño Podcast Y Contenido Int",
             "schedule": [
                 {
                     "day": 3,
@@ -2403,26 +2095,82 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6208",
+            "id": "5167",
             "modality": "Presencial",
-            "name": "en Ingenieria Energias Renovables",
+            "name": "Artistica Artes Y Narrativa",
             "schedule": [
                 {
-                    "day": 3,
-                    "end": 15,
-                    "start": 13
+                    "day": 2,
+                    "end": 18,
+                    "start": 16
                 }
             ],
             "semester": 11,
             "semesterTag": "Electiva"
         },
         {
-            "id": "6213",
+            "id": "5168",
             "modality": "Presencial",
-            "name": "en Ingenieria Energias Renovables",
+            "name": "Artistica Artes Y Narrativa",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "6156",
+            "modality": "Mediada",
+            "name": "Artistica Fotografia",
+            "schedule": [
+                {
+                    "day": 4,
+                    "end": 18,
+                    "start": 16
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "6157",
+            "modality": "Mediada",
+            "name": "Artistica Fotografia",
+            "schedule": [
+                {
+                    "day": 1,
+                    "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5240",
+            "modality": "Presencial",
+            "name": "en Ingenieria Habilidades Informaticas Ing.",
             "schedule": [
                 {
                     "day": 3,
+                    "end": 18,
+                    "start": 16
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5241",
+            "modality": "Presencial",
+            "name": "en Ingenieria Habilidades Informaticas Ing.",
+            "schedule": [
+                {
+                    "day": 0,
                     "end": 22,
                     "start": 20
                 }
@@ -2431,9 +2179,51 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6359",
+            "id": "5081",
             "modality": "Presencial",
-            "name": "en Ingenieria Minas Y Energia",
+            "name": "en Ingenieria Innovacion Rural Para Ingenie.",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 12,
+                    "start": 10
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5082",
+            "modality": "Presencial",
+            "name": "en Ingenieria Innovacion Rural Para Ingenie.",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 20,
+                    "start": 18
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5083",
+            "modality": "Presencial",
+            "name": "en Ingenieria Energias Renovables",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 12,
+                    "start": 10
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5084",
+            "modality": "Presencial",
+            "name": "en Ingenieria Energias Renovables",
             "schedule": [
                 {
                     "day": 2,
@@ -2445,26 +2235,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6360",
+            "id": "5245",
             "modality": "Presencial",
             "name": "en Ingenieria Minas Y Energia",
             "schedule": [
                 {
-                    "day": 1,
-                    "end": 13,
-                    "start": 11
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "7191",
-            "modality": "Presencial",
-            "name": "Interdisciplinaria Contabilidad Gerencial",
-            "schedule": [
-                {
-                    "day": 1,
+                    "day": 0,
                     "end": 22,
                     "start": 20
                 }
@@ -2473,9 +2249,93 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6124",
+            "id": "5246",
+            "modality": "Presencial",
+            "name": "en Ingenieria Minas Y Energia",
+            "schedule": [
+                {
+                    "day": 2,
+                    "end": 18,
+                    "start": 16
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5873",
+            "modality": "Presencial",
+            "name": "Interdisciplinar Contabilidad Gerencial",
+            "schedule": [
+                {
+                    "day": 0,
+                    "end": 22,
+                    "start": 20
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5108",
             "modality": "Virtual",
-            "name": "Interdisciplinaria Redaccion Textos Acad. Cientif",
+            "name": "Interdisciplinar Redaccion Textos Acad. Cientif",
+            "schedule": [
+                {
+                    "day": 6,
+                    "end": 3,
+                    "start": 1
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5183",
+            "modality": "Virtual",
+            "name": "Interdisciplinar Cine Y Politica",
+            "schedule": [
+                {
+                    "day": 5,
+                    "end": 3,
+                    "start": 1
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5184",
+            "modality": "Virtual",
+            "name": "Interdisciplinar Cine Y Politica",
+            "schedule": [
+                {
+                    "day": 5,
+                    "end": 5,
+                    "start": 3
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5192",
+            "modality": "Virtual",
+            "name": "Interdisciplinar Ecoturismo",
+            "schedule": [
+                {
+                    "day": 6,
+                    "end": 17,
+                    "start": 15
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "5193",
+            "modality": "Virtual",
+            "name": "Interdisciplinar Ecoturismo",
             "schedule": [
                 {
                     "day": 6,
@@ -2487,116 +2347,26 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6238",
+            "id": "5643",
             "modality": "Virtual",
-            "name": "Interdisciplinaria Cine Y Politica",
+            "name": "Interdisciplinar Bioetica",
             "schedule": [
                 {
                     "day": 5,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 6,
-                    "end": 7,
-                    "start": 6
+                    "end": 3,
+                    "start": 1
                 }
             ],
             "semester": 11,
             "semesterTag": "Electiva"
         },
         {
-            "id": "6239",
-            "modality": "Virtual",
-            "name": "Interdisciplinaria Cine Y Politica",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 4,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6247",
-            "modality": "Virtual",
-            "name": "Interdisciplinaria Ecoturismo",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 2,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6248",
-            "modality": "Virtual",
-            "name": "Interdisciplinaria Ecoturismo",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 4,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6506",
-            "modality": "Virtual",
-            "name": "Interdisciplinaria Bioetica",
-            "schedule": [
-                {
-                    "day": 6,
-                    "end": 19,
-                    "start": 17
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6649",
+            "id": "5791",
             "modality": "Presencial",
-            "name": "Interdisciplinaria Derecho Agrario",
+            "name": "Interdisciplinar Atencion Anim. Situa. Desastre",
             "schedule": [
                 {
                     "day": 3,
-                    "end": 22,
-                    "start": 20
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6597",
-            "modality": "Presencial",
-            "name": "Interdisciplinaria Atencion Anim. Situa. Desastre",
-            "schedule": [
-                {
-                    "day": 4,
                     "end": 13,
                     "start": 9
                 }
@@ -2605,50 +2375,40 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6268",
+            "id": "5216",
             "modality": "Virtual",
-            "name": "Interdisciplinaria Cultura De Paz",
+            "name": "Interdisciplinar Cultura De Paz",
             "schedule": [
-                {
-                    "day": 3,
-                    "end": 7,
-                    "start": 6
-                },
-                {
-                    "day": 4,
-                    "end": 7,
-                    "start": 6
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "6269",
-            "modality": "Virtual",
-            "name": "Interdisciplinaria Cultura De Paz",
-            "schedule": [
-                {
-                    "day": 5,
-                    "end": 7,
-                    "start": 6
-                },
                 {
                     "day": 6,
-                    "end": 7,
-                    "start": 6
+                    "end": 3,
+                    "start": 1
                 }
             ],
             "semester": 11,
             "semesterTag": "Electiva"
         },
         {
-            "id": "6567",
-            "modality": "Presencial",
-            "name": "Interdisciplinaria Frances",
+            "id": "5217",
+            "modality": "Virtual",
+            "name": "Interdisciplinar Cultura De Paz",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 6,
+                    "end": 5,
+                    "start": 3
+                }
+            ],
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": "6143",
+            "modality": "Presencial",
+            "name": "Interdisciplinar Frances",
+            "schedule": [
+                {
+                    "day": 4,
                     "end": 18,
                     "start": 16
                 }
@@ -2657,26 +2417,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6508",
+            "id": "5871",
             "modality": "Presencial",
-            "name": "Interdisciplinaria Cambio Climatico Y Ruralidad",
+            "name": "Interdisciplinar Finanzas Personales Y Proyecto",
             "schedule": [
                 {
-                    "day": 3,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "7198",
-            "modality": "Presencial",
-            "name": "Interdisciplinaria Finanzas Personales Y Proyecto",
-            "schedule": [
-                {
-                    "day": 3,
+                    "day": 1,
                     "end": 20,
                     "start": 18
                 }
@@ -2685,12 +2431,12 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6329",
+            "id": "6004",
             "modality": "Presencial",
-            "name": "Interdisciplinaria Futbol",
+            "name": "Interdisciplinar Futbol",
             "schedule": [
                 {
-                    "day": 3,
+                    "day": 2,
                     "end": 16,
                     "start": 14
                 }
@@ -2699,42 +2445,14 @@
             "semesterTag": "Electiva"
         },
         {
-            "id": "6330",
+            "id": "6005",
             "modality": "Presencial",
-            "name": "Interdisciplinaria Futbol",
+            "name": "Interdisciplinar Futbol",
             "schedule": [
                 {
-                    "day": 5,
+                    "day": 4,
                     "end": 16,
                     "start": 14
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "7196",
-            "modality": "Presencial",
-            "name": "Interdisciplinaria Power Skills: Habilidades Para",
-            "schedule": [
-                {
-                    "day": 1,
-                    "end": 18,
-                    "start": 16
-                }
-            ],
-            "semester": 11,
-            "semesterTag": "Electiva"
-        },
-        {
-            "id": "7197",
-            "modality": "Presencia",
-            "name": "Interdisciplinaria Power Skills: Habilidades Para",
-            "schedule": [
-                {
-                    "day": 3,
-                    "end": 22,
-                    "start": 20
                 }
             ],
             "semester": 11,
@@ -2742,11 +2460,44 @@
         }
     ],
     "completed_matters": [
+        "Precalculo",
+        "Diseño Y Modelado Asisitdo Por",
+        "Introduccion A La Ingenieria",
+        "Quimica General",
+        "Filosofia Uniagrarista",
+        "Comunicacion",
+        "Algebra Lineal",
+        "Calculo Diferencial",
         "Fisica Mecanica",
-        "Sostenibilidad Ambiental"
+        "Sostenibilidad Ambiental",
+        "Humanismo Y Paz",
+        "Ingles 1",
+        "Calculo Integral",
+        "Probabilidad Y Estadistica",
+        "Algoritmos Y Programacion",
+        "Circuitos Electricos",
+        "Emprendimiento E Innovacion",
+        "Ingles 2",
+        "Ecuaciones Diferenciales",
+        "Fisica Electrica Y Magnetica",
+        "Electronica Analoga",
+        "Materiales Para Ingenieria",
+        "Desarrollo Regional- Ruralidad",
+        "Introduc. A La Investigacion",
+        "Historia, Arte Y Cultura",
+        "Calculo Vectorial",
+        "Sensores Y Actuadores Industri",
+        "Economia Para Ingenieros",
+        "Sistemas Dinamicos",
+        "Program. Orientada A Objetos",
+        "Interdisciplinar Contabilidad Gerencial"
     ],
     "selected": [
-        6,
-        8
+        73,
+        89,
+        94,
+        78,
+        88,
+        93
     ]
 }

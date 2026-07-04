@@ -1,175 +1,161 @@
-Semestre Nombre Asignatura Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
-1 Precalculo 6846 . . . . 10..13 17..19 . Mixto
-1 Precalculo 6847 . . 18..21 . . 06..08 . Mixto
-1 Introduccion A La Ingenieria 7252 18..20 . . . . . . Presencial
-1 Introduccion A La Ingenieria 7256 16..18 . . . . . . Presencial
-1 Diseño Y Modelado Asisitdo Por 6255 14..16 14..17 . . . . . Presencial
-1 Diseño Y Modelado Asisitdo Por 6257 . 18..20 . . . 07..10 . Presencial
-1 Quimica General 6462 . . 11..13 10..13 . . . Presencial
-1 Quimica General 6463 . . . . 20..22 10..13 . Presencial
-1 Filosofia Uniagrarista 6209 06..07 06..07 . . . . . Virtual
-1 Filosofia Uniagrarista 6210 . . 06..07 06..07 . . . Virtual
-1 Filosofia Uniagrarista 6211 . . . . 06..07 06..07 . Virtual
-1 Comunicacion 6241 . . 07..10 18..21 . . . Presencial
-2 Algebra Lineal 6500 . 10..13 . . . . . Presencial
-2 Algebra Lineal 6501 . . . 10..13 . . . Presencial
-2 Algebra Lineal 6502 . . . . . 10..13 . Presencial
-2 Calculo Diferencial 6509 . . 07..10 . . . . Presencial
-2 Calculo Diferencial 6510 . . 14..17 . . . . Presencial
-2 Calculo Diferencial 6511 . . . . 18..21 . . Presencial
-2 Fisica Mecanica 6498 . 14..17 . 14..16 . . . Presencial
-2 Fisica Mecanica 6499 18..20 . . . . 07..10 . Presencial
-2 Sostenibilidad Ambiental 6891 . 11..13 . . . . . Presencial
-2 Sostenibilidad Ambiental 6892 20..22 . . . . . . Presencial
-2 Sostenibilidad Ambiental 6893 . 18..20 . . . . . Presencial
-2 Sostenibilidad Ambiental 6894 . . 07..09 . . . . Presencial
-2 Sostenibilidad Ambiental 6895 . . 09..11 . . . . Presencial
-2 Sostenibilidad Ambiental 6896 . . 14..16 . . . . Presencial
-2 Sostenibilidad Ambiental 6897 . . . 11..13 . . . Presencial
-2 Sostenibilidad Ambiental 6898 . . . . 20..22 . . Presencial
-2 Humanismo Y Paz 6146 . . . . . 06..09 . Virtual
-2 Humanismo Y Paz 6147 . . . . . 13..16 . Presencial
-2 Humanismo Y Paz 6148 . . . . . 16..19 . Virtual
-Semestre Nombre Asignatura Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
-2 Ingles 1 6558 07..09 . 07..09 . . . . Presencial
-2 Ingles 1 6559 16..18 . . 16..18 . . . Presencial
-2 Ingles 1 6560 . . . 06..08 06..08 . . Virtual
-3 Calculo Integral 6819 10..13 . . . . . . Presencial
-3 Calculo Integral 6820 . . 07..10 . . . . Presencial
-3 Calculo Integral 6821 . . 14..17 . . . . Presencial
-3 Calculo Integral 6822 . . . 18..21 . . . Presencial
-3 Calculo Integral 6823 . . . . . 10..13 . Presencial
-3 Probabilidad Y Estadistica 6869 . . 07..10 . 07..09 . . Presencial
-3 Probabilidad Y Estadistica 6870 . . 20..22 . 18..21 . . Presencial
-3 Algoritmos Y Programacion 6366 14..16 15..18 . . . . . Presencial
-3 Algoritmos Y Programacion 6367 18..20 . . . . 10..13 . Presencial
-3 Circuitos Electricos 6217 . . 14..17 . 14..17 . . Presencial
-3 Circuitos Electricos 6220 . 18..21 18..21 . . . . Presencial
-3 Emprendimiento E Innovacion 6108 . . 18..20 . . . . Presencial
-3 Emprendimiento E Innovacion 6109 . . . 11..13 . . . Presencial
-3 Emprendimiento E Innovacion 6110 . . . . 08..10 . . Presencial
-3 Ingles 2 6561 . . 16..18 16..18 . . . Presencial
-3 Ingles 2 6562 . . . 06..08 06..08 . . Virtual
-3 Ingles 2 6563 . . . . 16..18 11..13 . Presencial
-4 Ecuaciones Diferenciales 6838 18..21 . . . . . . Presencial
-4 Ecuaciones Diferenciales 6839 . . . 14..17 . . . Presencial
-4 Ecuaciones Diferenciales 6840 . . . 18..21 . . . Presencial
-4 Ecuaciones Diferenciales 6841 . . . . 07..10 . . Presencial
-4 Ecuaciones Diferenciales 6842 . . . . 10..13 . . Presencial
-4 Fisica Electrica Y Magnetica 6492 . . 16..18 . 07..10 . . Presencial
-4 Fisica Electrica Y Magnetica 6493 . . . . 18..20 07..10 . Presencial
-4 Electronica Analoga 6361 . . . 10..13 10..13 . . Presencial
-4 Electronica Analoga 6362 . . . . 18..21 07..10 . Presencial
-4 Materiales Para Ingenieria 6304 . 16..18 10..13 . . . . Presencial
-4 Materiales Para Ingenieria 6305 . 18..20 . 18..21 . . . Presencial
-Semestre Nombre Asignatura Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
-4 Desarrollo Regional- Ruralidad 6139 17..18 17..18 . . . . . Presencial
-4 Desarrollo Regional- Ruralidad 6140 . . 17..18 17..18 . . . Presencial
-4 Desarrollo Regional- Ruralidad 6141 . . . . 17..18 17..18 . Virtual
-4 Introduc. A La Investigacion 6114 14..16 . . . . . . Presencial
-4 Introduc. A La Investigacion 6115 18..20 . . . . . . Presencial
-4 Historia, Arte Y Cultura 6276 16..18 . . . . . . Presencial
-4 Historia, Arte Y Cultura 6277 20..22 . . . . . . Presencial
-4 Historia, Arte Y Cultura 6278 . 11..13 . . . . . Presencial
-4 Historia, Arte Y Cultura 6279 . 14..16 . . . . . Presencial
-4 Historia, Arte Y Cultura 6280 . . . 09..11 . . . Presencial
-4 Historia, Arte Y Cultura 6281 . . . 11..13 . . . Presencial
-4 Ingles 3 6564 06..08 06..08 . . . . . Virtual
-4 Ingles 3 6565 . . 16..20 . . . . Mediado
-5 Calculo Vectorial 6827 . 18..21 . . . . . Presencial
-5 Calculo Vectorial 6828 . . . 10..13 . . . Presencial
-5 Calculo Vectorial 6829 . . . . 14..17 . . Presencial
-5 Electronica Digital 6339 . 16..18 07..10 . . . . Presencial
-5 Electronica Digital 6343 . . . 18..21 . 08..10 . Presencial
-5 Sensores Y Actuadores Industri 6328 . . 14..17 . 14..17 . . Presencial
-5 Sensores Y Actuadores Industri 6331 . . 18..21 . . 14..17 . Presencial
-5 Mecanica De Fluidos 6393 . 11..13 . 13..16 . . . Presencial
-5 Mecanica De Fluidos 6394 . 20..22 . . . 10..13 . Presencial
-5 Mecanica De Fluidos 7239 09..11 . . . 14..17 . . Presencial
-5 Mecanica De Fluidos 7240 18..21 . . . 18..20 . . Presencial
-5 Economia Para Ingenieros 7148 14..17 . . . . . . Presencial
-5 Economia Para Ingenieros 7149 . 14..17 . . . . . Presencial
-5 Economia Para Ingenieros 7150 . . . 18..21 . . . Presencial
-5 Economia Para Ingenieros 7151 . 07..10 . . . . . Presencial
-5 Economia Para Ingenieros 7152 . . . . . 10..13 . Presencial
-6 Microprocesadores Y Sistemas 6297 . 14..17 . . 16..18 . . Presencial
-6 Microprocesadores Y Sistemas 6298 18..20 . . . 18..21 . . Presencial
-Semestre Nombre Asignatura Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
-6 Sistemas Dinamicos 6308 . . . 10..13 . . . Presencial
-6 Sistemas Dinamicos 6309 . . . . . 10..13 . Presencial
-6 Electro Neumatica 6324 11..13 10..13 . . . . . Presencial
-6 Electro Neumatica 6326 20..22 . 18..21 . . . . Presencial
-6 Estatica 6320 . . . . . 07..10 . Presencial
-6 Metodolog. De La Investigacion 6116 . . 14..16 . . . . Presencial
-6 Metodolog. De La Investigacion 6117 . . 18..20 . . . . Presencial
-6 Termodinamica 7302 . 08..11 . 09..11 . . . Presencial
-6 Termodinamica 7303 14..16 . . 14..17 . . . Presencial
-6 Termodinamica 7304 . 20..22 . 18..21 . . . Presencial
-7 Program. Orientada A Objetos 6292 . . 18..21 . . 14..17 . Presencial
-7 Señales Y Sistemas 6365 18..20 18..21 . . . . . Presencial
-7 Resistencia De Materiales 6311 . . . . 20..22 10..12 . Presencial
-7 Seminario De Investigacion 6120 . . . . 14..16 . . Presencial
-7 Seminario De Investigacion 6121 . . . . 18..20 . . Presencial
-7 Form. Y Evaluacion De Proyecto 6400 . 18..21 . 20..22 . . . Presencial
-7 Form. Y Evaluacion De Proyecto 6578 20..22 . . . . 07..10 . Presencial
-7 Form. Y Evaluacion De Proyecto 6579 . 09..11 . 10..13 . . . Presencial
-8 Sistemas Inteligentes Int. Art 6294 16..18 10..13 . . . . . Presencial
-8 Sistemas Inteligentes Int. Art 6295 . 18..20 . 18..21 . . . Presencial
-8 Maquinas Electricas 6300 . 14..16 . . 10..13 . . Presencial
-8 Maquinas Electricas 6302 18..20 . . . 18..21 . . Presencial
-8 Sistemas De Control Analogo 6310 . 20..22 . . 15..18 . . Presencial
-8 Procesos De Manufactura 6303 . . 20..22 . . 08..11 . Presencial
-8 Dinamica 6314 . . . . . 14..17 . Presencial
-9 Sistemas De Control Digital 6307 20..22 . . . . 14..17 . Presencial
-9 Automatiz. Procesos De Manufac 6323 . . . 18..20 . 07..10 . Presencial
-9 Diseño De Maquinas 6306 . 16..18 15..18 . . . . Presencial
-9 Diseño De Maquinas 6372 . . 18..20 . . 07..10 . Presencial
-10 Robotica Aplicada 6370 . . 18..20 18..21 . . . Presencial
-10 Diseño Mecatronico 6332 18..20 . . . 18..21 . . Presencial
-Semestre Nombre Asignatura Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
-10 Opcion De Grado 7301 08..10 16..18 08..10 08..10 . . . Presencial
-Electiva Profundizacion Energias Alternativas 1 6358 . . . . 18..21 . . Presencial
-Electiva Profundizacion Nanobiotecnologia 2 6371 . . . . . 07..10 . Presencial
-Electiva Profundizacion Telecomunicaciones 1 6364 . . . . 15..18 . . Presencial
-Electiva Profundizacion Telecomunicaciones 2 6363 . . . . . 10..13 . Presencial
-Electiva Deportiva Yoga 6345 . . 11..13 . . . . Presencial
-Electiva Deportiva Yoga 6346 . . . . 11..13 . . Presencial
-Electiva Deportiva Futbol Sala 6335 . . 18..20 . . . . Presencial
-Electiva Deportiva Futbol Sala 6336 . . . . 16..18 . . Presencial
-Electiva Deportiva Rugby 6422 14..16 . . . . . . Presencial
-Electiva Deportiva Rugby 6423 . . 18..20 . . . . Presencial
-Electiva Deportiva Ultimate Frisbee 6424 . . . . 11..13 . . Presencial
-Electiva Deportiva Ultimate Frisbee 6425 . . . . . 07..09 . Presencial
-Electiva Artistica Fotografia 6348 . . . . 16..18 . . Mediado
-Electiva Artistica Fotografia 6349 . 18..20 . . . . . Mediado
-Electiva Artistica Diseño Podcast Y Contenido Int 6340 18..20 . . . . . . Mediado
-Electiva Artistica Diseño Podcast Y Contenido Int 6341 . . . 18..20 . . . Mediado
-Electiva Artistica Artes Y Narrativa 6186 . . 16..18 . . . . Presencial
-Electiva Artistica Artes Y Narrativa 6187 . . . . . . . Presencial
-Electiva en Ingenieria Habilidades Informaticas Ing. 6251 16..18 . . . . . . Presencial
-Electiva en Ingenieria Habilidades Informaticas Ing. 6253 20..22 . . . . . . Presencial
-Electiva en Ingenieria Innovacion Rural Para Ingenie. 6202 14..16 . . . . . . Presencial
-Electiva en Ingenieria Innovacion Rural Para Ingenie. 6203 . . 18..20 . . . . Presencial
-Electiva en Ingenieria Energias Renovables 6208 . . 13..15 . . . . Presencial
-Electiva en Ingenieria Energias Renovables 6213 . . 20..22 . . . . Presencial
-Electiva en Ingenieria Minas Y Energia 6359 . 20..22 . . . . . Presencial
-Electiva en Ingenieria Minas Y Energia 6360 11..13 . . . . . . Presencial
-Electiva Interdisciplinaria Contabilidad Gerencial 7191 20..22 . . . . . . Presencial
-Electiva Interdisciplinaria Redaccion Textos Acad. Cientif 6124 . . . . . 17..19 . Virtual
-Electiva Interdisciplinaria Cine Y Politica 6238 . . . . 06..07 06..07 . Virtual
-Electiva Interdisciplinaria Cine Y Politica 6239 . . 06..07 06..07 . . . Virtual
-Semestre Nombre Asignatura Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
-Electiva Interdisciplinaria Ecoturismo 6247 06..07 06..07 . . . . . Virtual
-Electiva Interdisciplinaria Ecoturismo 6248 . . 06..07 06..07 . . . Virtual
-Electiva Interdisciplinaria Bioetica 6506 . . . . . 17..19 . Virtual
-Electiva Interdisciplinaria Derecho Agrario 6649 . . 20..22 . . . . Presencial
-Electiva Interdisciplinaria Atencion Anim. Situa. Desastre 6597 . . . 09..13 . . . Presencial
-Electiva Interdisciplinaria Cultura De Paz 6268 . . 06..07 06..07 . . . Virtual
-Electiva Interdisciplinaria Cultura De Paz 6269 . . . . 06..07 06..07 . Virtual
-Electiva Interdisciplinaria Frances 6567 . . . . 16..18 . . Presencial
-Electiva Interdisciplinaria Cambio Climatico Y Ruralidad 6508 . . 16..18 . . . . Presencial
-Electiva Interdisciplinaria Finanzas Personales Y Proyecto 7198 . . 18..20 . . . . Presencial
-Electiva Interdisciplinaria Futbol 6329 . . 14..16 . . . . Presencial
-Electiva Interdisciplinaria Futbol 6330 . . . . 14..16 . . Presencial
-Electiva Interdisciplinaria Power Skills: Habilidades Para 7196 16..18 . . . . . . Presencial
-Electiva Interdisciplinaria Power Skills: Habilidades Para 7197 . . 20..22 . . . . Presencia
+Semestre Curso Académico Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
+1 Precalculo 5723 . . 18..21 . . . 15..17 Mixto
+1 Precalculo 5724 . . . . 10..13 . 09..11 Mixto
+1 Diseño Y Modelado Asisitdo Por 5208 14..16 14..17 . . . . . Presencial
+1 Diseño Y Modelado Asisitdo Por 5212 . 18..20 . . . 07..10 . Presencial
+1 Introduccion A La Ingenieria 6160 16..18 . . . . . . Presencial
+1 Introduccion A La Ingenieria 6161 18..20 . . . . . . Presencial
+1 Quimica General 5278 . . 11..13 10..13 . . . Presencial
+1 Quimica General 5279 . . . . 20..22 10..13 . Presencial
+1 Filosofia Uniagrarista 5172 . . . . . . 01..03 Virtual
+1 Filosofia Uniagrarista 5173 . . . . . . 03..05 Virtual
+1 Filosofia Uniagrarista 5174 . . . . . . 05..07 Virtual
+1 Comunicacion 5187 . . 07..10 . . . . Presencial
+1 Comunicacion 5188 . . . 18..21 . . . Presencial
+2 Algebra Lineal 5635 . 10..13 . . . . . Presencial
+2 Algebra Lineal 5636 . . . 10..13 . . . Presencial
+2 Algebra Lineal 5637 . . . . . 10..13 . Presencial
+2 Calculo Diferencial 5649 . . . . 18..21 . . Presencial
+2 Calculo Diferencial 5650 . . 14..17 . . . . Presencial
+2 Calculo Diferencial 5651 . . 07..10 . . . . Presencial
+2 Fisica Mecanica 5631 . 14..17 . 14..16 . . . Presencial
+2 Fisica Mecanica 5632 18..20 . . . . 07..10 . Presencial
+2 Sostenibilidad Ambiental 5953 20..22 . . . . . . Presencial
+2 Sostenibilidad Ambiental 5954 . 11..13 . . . . . Presencial
+2 Sostenibilidad Ambiental 5955 . 18..20 . . . . . Presencial
+2 Sostenibilidad Ambiental 5956 . . 07..09 . . . . Presencial
+2 Sostenibilidad Ambiental 5957 . . 09..11 . . . . Presencial
+2 Sostenibilidad Ambiental 5958 . . 14..16 . . . . Presencial
+2 Sostenibilidad Ambiental 5959 . . . 11..13 . . . Presencial
+2 Sostenibilidad Ambiental 5961 . . . . 20..22 . . Presencial
+2 Humanismo Y Paz 5155 . . . . . . 01..04 Virtual
+2 Humanismo Y Paz 5156 . . . . . . 04..07 Virtual
+Semestre Curso Académico Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
+2 Humanismo Y Paz 5157 . . . . . . . Presencial
+2 Ingles 1 6123 07..09 . 07..09 . . . . Presencial
+3 Calculo Integral 5698 . . 07..10 . . . . Presencial
+3 Calculo Integral 5699 . . 13..16 . . . . Presencial
+3 Calculo Integral 5700 . . . 18..21 . . . Presencial
+3 Calculo Integral 5701 . . . . . 14..17 . Presencial
+3 Probabilidad Y Estadistica 5936 . 11..13 10..13 . . . . Presencial
+3 Probabilidad Y Estadistica 5937 . . 20..22 . 18..21 . . Presencial
+3 Algoritmos Y Programacion 5235 14..16 15..18 . . . . . Presencial
+3 Algoritmos Y Programacion 5237 18..20 . . . . 10..13 . Presencial
+3 Circuitos Electricos 5243 10..13 . . . 14..17 . . Presencial
+3 Circuitos Electricos 5244 . 18..21 . 18..21 . . . Presencial
+3 Emprendimiento E Innovacion 5114 18..20 . . . . . . Presencial
+3 Emprendimiento E Innovacion 5986 . . 18..20 . . . . Presencial
+3 Emprendimiento E Innovacion 5987 . . . 11..13 . . . Presencial
+3 Emprendimiento E Innovacion 5988 . . . . 11..13 . . Presencial
+3 Emprendimiento E Innovacion 5989 . . . . . 07..09 . Presencial
+3 Ingles 2 6124 . . . . . . 00..04 Virtual
+4 Ecuaciones Diferenciales 5714 18..21 . . . . . . Presencial
+4 Ecuaciones Diferenciales 5715 . . . 14..17 . . . Presencial
+4 Ecuaciones Diferenciales 5716 . . . 18..21 . . . Presencial
+4 Ecuaciones Diferenciales 5717 . . . . 07..10 . . Presencial
+4 Ecuaciones Diferenciales 5718 . . . . 10..13 . . Presencial
+4 Fisica Electrica Y Magnetica 5391 . . 16..18 . 07..10 . . Presencial
+4 Fisica Electrica Y Magnetica 5392 . . . . 18..20 07..10 . Presencial
+4 Electronica Analoga 5249 . 10..13 . . 10..13 . . Presencial
+4 Electronica Analoga 5250 . . 18..21 . . 10..13 . Presencial
+4 Materiales Para Ingenieria 5247 16..18 . 10..13 . . . . Presencial
+4 Materiales Para Ingenieria 5248 . 18..21 . . 20..22 . . Presencial
+4 Desarrollo Regional- Ruralidad 5129 . . . . . . 07..09 Virtual
+4 Desarrollo Regional- Ruralidad 5130 . . . . . . 09..11 Virtual
+Semestre Curso Académico Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
+4 Desarrollo Regional- Ruralidad 5131 . . . . . . 11..13 Virtual
+4 Introduc. A La Investigacion 5091 14..16 . . . . . . Presencial
+4 Introduc. A La Investigacion 5092 18..20 . . . . . . Presencial
+4 Historia, Arte Y Cultura 5224 16..18 . . . . . . Presencial
+4 Historia, Arte Y Cultura 5225 20..22 . . . . . . Presencial
+4 Historia, Arte Y Cultura 5226 . . . . . 11..13 . Presencial
+4 Historia, Arte Y Cultura 5227 . 14..16 . . . . . Presencial
+4 Historia, Arte Y Cultura 5228 . . . 11..13 . . . Presencial
+4 Ingles 3 6125 . . . . . . 04..08 Virtual
+5 Calculo Vectorial 5704 . 18..21 . . . . . Presencial
+5 Calculo Vectorial 5705 . . . . 14..17 . . Presencial
+5 Electronica Digital 5253 11..13 . 10..13 . . . . Presencial
+5 Electronica Digital 5254 . . . 18..21 . 08..10 . Presencial
+5 Sensores Y Actuadores Industri 5255 15..18 15..18 . . . . . Presencial
+5 Sensores Y Actuadores Industri 5256 . . 18..21 . . 14..17 . Presencial
+5 Mecanica De Fluidos 5176 . . 10..12 13..16 . . . Presencial
+5 Mecanica De Fluidos 5189 . . . 18..20 . 10..13 . Presencial
+5 Mecanica De Fluidos 6024 18..21 . . . 18..20 . . Presencial
+5 Economia Para Ingenieros 6037 14..17 . . . . . . Presencial
+5 Economia Para Ingenieros 6038 . 14..17 . . . . . Presencial
+5 Economia Para Ingenieros 6039 . . . 18..21 . . . Presencial
+5 Economia Para Ingenieros 6040 . 18..21 . . . . . Presencial
+5 Economia Para Ingenieros 6041 . 07..10 . . . . . Presencial
+5 Economia Para Ingenieros 6042 . . . . . 10..13 . Presencial
+6 Termodinamica 6049 . 20..22 . 18..21 . . . Presencial
+6 Termodinamica 6050 . 18..20 18..21 . . . . Presencial
+6 Termodinamica 6051 14..16 . . 14..17 . . . Presencial
+6 Microprocesadores Y Sistemas 5257 08..11 . 14..16 . . . . Presencial
+6 Microprocesadores Y Sistemas 5258 18..21 . 20..22 . . . . Presencial
+6 Sistemas Dinamicos 5264 . . . . . 10..13 . Presencial
+6 Electro Neumatica 5259 . 10..13 . 11..13 . . . Presencial
+Semestre Curso Académico Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
+6 Electro Neumatica 5260 . . 18..20 . 18..21 . . Presencial
+6 Estatica 5261 . . . . . 07..10 . Presencial
+6 Metodolog. De La Investigacion 5096 . . 14..16 . . . . Presencial
+6 Metodolog. De La Investigacion 5097 . . 18..20 . . . . Presencial
+7 Program. Orientada A Objetos 5287 . . . 18..21 . 10..13 . Presencial
+7 Señales Y Sistemas 5285 . 16..18 15..18 . . . . Presencial
+7 Señales Y Sistemas 5286 18..20 18..21 . . . . . Presencial
+7 Resistencia De Materiales 5271 16..18 . . 16..18 . . . Presencial
+7 Resistencia De Materiales 5288 . . . . 20..22 14..16 . Presencial
+7 Seminario De Investigacion 5100 . . . . 14..16 . . Presencial
+7 Seminario De Investigacion 5101 . . . . 18..20 . . Presencial
+7 Form. Y Evaluacion De Proyecto 5199 . 18..21 . 20..22 . . . Presencial
+7 Form. Y Evaluacion De Proyecto 5598 . 09..11 . 10..13 . . . Presencial
+7 Form. Y Evaluacion De Proyecto 5604 20..22 . . . . 07..10 . Presencial
+8 Sistemas Inteligentes Int. Art 5292 . 18..20 . . . 14..17 . Presencial
+8 Maquinas Electricas 5289 10..13 . 14..16 . . . . Presencial
+8 Maquinas Electricas 5290 18..20 . 18..21 . . . . Presencial
+8 Sistemas De Control Analogo 5291 20..22 . . . 18..21 . . Presencial
+8 Procesos De Manufactura 5293 . . . 18..20 . 07..10 . Presencial
+8 Dinamica 5294 . . . . . 10..13 . Presencial
+9 Sistemas De Control Digital 5297 . . . 16..18 10..13 . . Presencial
+9 Sistemas De Control Digital 5298 . . . 20..22 . 07..10 . Presencial
+9 Automatiz. Procesos De Manufac 5296 . 20..22 . . 18..21 . . Presencial
+9 Diseño De Maquinas 5295 18..20 . 18..21 . . . . Presencial
+10 Robotica Aplicada 5303 . 18..21 . 18..20 . . . Presencial
+10 Diseño Mecatronico 5301 18..20 . 18..21 . . . . Presencial
+10 Opcion De Grado 6057 . 16..18 . 06..09 08..11 . . Mixto
+Electiva Profundizacion Agricultura De Precision 1 5302 . . . . . 07..10 . Presencial
+Electiva Profundizacion Energias Alternativas 2 5299 . . . . . 10..13 . Presencial
+Electiva Profundizacion Nanobiotecnologia 1 5304 . . . . . 14..17 . Presencial
+Electiva Profundizacion Telecomunicaciones 2 5300 . . . . . 14..17 . Presencial
+Semestre Curso Académico Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
+Electiva Deportiva Voleibol 6010 14..16 . . . . . . Presencial
+Electiva Deportiva Voleibol 6011 . . 11..13 . . . . Presencial
+Electiva Deportiva Baloncesto 6006 16..18 . . . . . . Presencial
+Electiva Deportiva Baloncesto 6007 . . . . 14..16 . . Presencial
+Electiva Artistica Diseño Podcast Y Contenido Int 6012 18..20 . . . . . . Mediada
+Electiva Artistica Diseño Podcast Y Contenido Int 6013 . . . 18..20 . . . Mediada
+Electiva Artistica Artes Y Narrativa 5167 . . 16..18 . . . . Presencial
+Electiva Artistica Artes Y Narrativa 5168 . . 18..20 . . . . Presencial
+Electiva Artistica Fotografia 6156 . . . . 16..18 . . Mediada
+Electiva Artistica Fotografia 6157 . 18..20 . . . . . Mediada
+Electiva en Ingenieria Habilidades Informaticas Ing. 5240 . . . 16..18 . . . Presencial
+Electiva en Ingenieria Habilidades Informaticas Ing. 5241 20..22 . . . . . . Presencial
+Electiva en Ingenieria Innovacion Rural Para Ingenie. 5081 10..12 . . . . . . Presencial
+Electiva en Ingenieria Innovacion Rural Para Ingenie. 5082 . . 18..20 . . . . Presencial
+Electiva en Ingenieria Energias Renovables 5083 . . 10..12 . . . . Presencial
+Electiva en Ingenieria Energias Renovables 5084 . . 20..22 . . . . Presencial
+Electiva en Ingenieria Minas Y Energia 5245 20..22 . . . . . . Presencial
+Electiva en Ingenieria Minas Y Energia 5246 . . 16..18 . . . . Presencial
+Electiva Interdisciplinar Contabilidad Gerencial 5873 20..22 . . . . . . Presencial
+Electiva Interdisciplinar Redaccion Textos Acad. Cientif 5108 . . . . . . 01..03 Virtual
+Electiva Interdisciplinar Cine Y Politica 5183 . . . . . 01..03 . Virtual
+Electiva Interdisciplinar Cine Y Politica 5184 . . . . . 03..05 . Virtual
+Electiva Interdisciplinar Ecoturismo 5192 . . . . . . 15..17 Virtual
+Electiva Interdisciplinar Ecoturismo 5193 . . . . . . 17..19 Virtual
+Electiva Interdisciplinar Bioetica 5643 . . . . . 01..03 . Virtual
+Electiva Interdisciplinar Atencion Anim. Situa. Desastre 5791 . . . 09..13 . . . Presencial
+Electiva Interdisciplinar Cultura De Paz 5216 . . . . . . 01..03 Virtual
+Electiva Interdisciplinar Cultura De Paz 5217 . . . . . . 03..05 Virtual
+Electiva Interdisciplinar Frances 6143 . . . . 16..18 . . Presencial
+Electiva Interdisciplinar Finanzas Personales Y Proyecto 5871 . 18..20 . . . . . Presencial
+Electiva Interdisciplinar Futbol 6004 . . 14..16 . . . . Presencial
+Electiva Interdisciplinar Futbol 6005 . . . . 14..16 . . Presencial
