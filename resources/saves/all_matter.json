@@ -1,0 +1,482 @@
+{
+    "current_id": 79,
+    "exeptionals_semesters": [
+        "Electiva"
+    ],
+    "storage": [
+        {
+            "id": 0,
+            "name": "Precalculo",
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": 1,
+            "name": "Diseño Y Modelado Asisitdo Por",
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": 2,
+            "name": "Introduccion A La Ingenieria",
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": 3,
+            "name": "Quimica General",
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": 4,
+            "name": "Filosofia Uniagrarista",
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": 5,
+            "name": "Comunicacion",
+            "semester": 1,
+            "semesterTag": "1"
+        },
+        {
+            "id": 6,
+            "name": "Algebra Lineal",
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": 7,
+            "name": "Calculo Diferencial",
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": 8,
+            "name": "Fisica Mecanica",
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": 9,
+            "name": "Sostenibilidad Ambiental",
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": 10,
+            "name": "Humanismo Y Paz",
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": 11,
+            "name": "Ingles 1",
+            "semester": 2,
+            "semesterTag": "2"
+        },
+        {
+            "id": 12,
+            "name": "Calculo Integral",
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": 13,
+            "name": "Probabilidad Y Estadistica",
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": 14,
+            "name": "Algoritmos Y Programacion",
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": 15,
+            "name": "Circuitos Electricos",
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": 16,
+            "name": "Emprendimiento E Innovacion",
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": 17,
+            "name": "Ingles 2",
+            "semester": 3,
+            "semesterTag": "3"
+        },
+        {
+            "id": 18,
+            "name": "Ecuaciones Diferenciales",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 19,
+            "name": "Fisica Electrica Y Magnetica",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 20,
+            "name": "Electronica Analoga",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 21,
+            "name": "Materiales Para Ingenieria",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 22,
+            "name": "Desarrollo Regional- Ruralidad",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 23,
+            "name": "Introduc. A La Investigacion",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 24,
+            "name": "Historia, Arte Y Cultura",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 25,
+            "name": "Ingles 3",
+            "semester": 4,
+            "semesterTag": "4"
+        },
+        {
+            "id": 26,
+            "name": "Calculo Vectorial",
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": 27,
+            "name": "Electronica Digital",
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": 28,
+            "name": "Sensores Y Actuadores Industri",
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": 29,
+            "name": "Mecanica De Fluidos",
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": 30,
+            "name": "Economia Para Ingenieros",
+            "semester": 5,
+            "semesterTag": "5"
+        },
+        {
+            "id": 31,
+            "name": "Termodinamica",
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": 32,
+            "name": "Microprocesadores Y Sistemas",
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": 33,
+            "name": "Sistemas Dinamicos",
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": 34,
+            "name": "Electro Neumatica",
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": 35,
+            "name": "Estatica",
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": 36,
+            "name": "Metodolog. De La Investigacion",
+            "semester": 6,
+            "semesterTag": "6"
+        },
+        {
+            "id": 37,
+            "name": "Program. Orientada A Objetos",
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": 38,
+            "name": "Señales Y Sistemas",
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": 39,
+            "name": "Resistencia De Materiales",
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": 40,
+            "name": "Seminario De Investigacion",
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": 41,
+            "name": "Form. Y Evaluacion De Proyecto",
+            "semester": 7,
+            "semesterTag": "7"
+        },
+        {
+            "id": 42,
+            "name": "Sistemas Inteligentes Int. Art",
+            "semester": 8,
+            "semesterTag": "8"
+        },
+        {
+            "id": 43,
+            "name": "Maquinas Electricas",
+            "semester": 8,
+            "semesterTag": "8"
+        },
+        {
+            "id": 44,
+            "name": "Sistemas De Control Analogo",
+            "semester": 8,
+            "semesterTag": "8"
+        },
+        {
+            "id": 45,
+            "name": "Procesos De Manufactura",
+            "semester": 8,
+            "semesterTag": "8"
+        },
+        {
+            "id": 46,
+            "name": "Dinamica",
+            "semester": 8,
+            "semesterTag": "8"
+        },
+        {
+            "id": 47,
+            "name": "Sistemas De Control Digital",
+            "semester": 9,
+            "semesterTag": "9"
+        },
+        {
+            "id": 48,
+            "name": "Automatiz. Procesos De Manufac",
+            "semester": 9,
+            "semesterTag": "9"
+        },
+        {
+            "id": 49,
+            "name": "Diseño De Maquinas",
+            "semester": 9,
+            "semesterTag": "9"
+        },
+        {
+            "id": 50,
+            "name": "Robotica Aplicada",
+            "semester": 10,
+            "semesterTag": "10"
+        },
+        {
+            "id": 51,
+            "name": "Diseño Mecatronico",
+            "semester": 10,
+            "semesterTag": "10"
+        },
+        {
+            "id": 52,
+            "name": "Opcion De Grado",
+            "semester": 10,
+            "semesterTag": "10"
+        },
+        {
+            "id": 53,
+            "name": "Profundizacion Agricultura De Precision 1",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 54,
+            "name": "Profundizacion Energias Alternativas 2",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 55,
+            "name": "Profundizacion Nanobiotecnologia 1",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 56,
+            "name": "Profundizacion Telecomunicaciones 2",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 57,
+            "name": "Deportiva Voleibol",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 58,
+            "name": "Deportiva Baloncesto",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 59,
+            "name": "Artistica Diseño Podcast Y Contenido Int",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 60,
+            "name": "Artistica Artes Y Narrativa",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 61,
+            "name": "Artistica Fotografia",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 62,
+            "name": "en Ingenieria Habilidades Informaticas Ing.",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 63,
+            "name": "en Ingenieria Innovacion Rural Para Ingenie.",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 64,
+            "name": "en Ingenieria Energias Renovables",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 65,
+            "name": "en Ingenieria Minas Y Energia",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 66,
+            "name": "Interdisciplinar Contabilidad Gerencial",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 67,
+            "name": "Interdisciplinar Redaccion Textos Acad. Cientif",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 68,
+            "name": "Interdisciplinar Cine Y Politica",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 69,
+            "name": "Interdisciplinar Ecoturismo",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 70,
+            "name": "Interdisciplinar Bioetica",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 71,
+            "name": "Interdisciplinar Atencion Anim. Situa. Desastre",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 72,
+            "name": "Interdisciplinar Cultura De Paz",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 73,
+            "name": "Interdisciplinar Frances",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 74,
+            "name": "Interdisciplinar Finanzas Personales Y Proyecto",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 75,
+            "name": "Interdisciplinar Futbol",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 76,
+            "name": "Interdisciplinar Power Skills: Habilidades Para",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 77,
+            "name": "Interdisciplinar Introd. A La Ciencia De Datos",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        },
+        {
+            "id": 78,
+            "name": "Interdisciplinar Inteligencia Emocional",
+            "semester": 11,
+            "semesterTag": "Electiva"
+        }
+    ]
+}

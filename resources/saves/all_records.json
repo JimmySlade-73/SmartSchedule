@@ -1,0 +1,2196 @@
+[
+    {
+        "id": "5723",
+        "matter_id": 0,
+        "modality": "Mixto",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 6,
+                "end": 17,
+                "start": 15
+            }
+        ]
+    },
+    {
+        "id": "5724",
+        "matter_id": 0,
+        "modality": "Mixto",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 13,
+                "start": 10
+            },
+            {
+                "day": 6,
+                "end": 11,
+                "start": 9
+            }
+        ]
+    },
+    {
+        "id": "5208",
+        "matter_id": 1,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 16,
+                "start": 14
+            },
+            {
+                "day": 1,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5212",
+        "matter_id": 1,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "6160",
+        "matter_id": 2,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "6161",
+        "matter_id": 2,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5278",
+        "matter_id": 3,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 13,
+                "start": 11
+            },
+            {
+                "day": 3,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5279",
+        "matter_id": 3,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5172",
+        "matter_id": 4,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 3,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "5173",
+        "matter_id": 4,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 5,
+                "start": 3
+            }
+        ]
+    },
+    {
+        "id": "5174",
+        "matter_id": 4,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 7,
+                "start": 5
+            }
+        ]
+    },
+    {
+        "id": "5187",
+        "matter_id": 5,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5188",
+        "matter_id": 5,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5635",
+        "matter_id": 6,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5636",
+        "matter_id": 6,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5637",
+        "matter_id": 6,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5649",
+        "matter_id": 7,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5650",
+        "matter_id": 7,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5651",
+        "matter_id": 7,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5631",
+        "matter_id": 8,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 17,
+                "start": 14
+            },
+            {
+                "day": 3,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5632",
+        "matter_id": 8,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5953",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5954",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5955",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5956",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 9,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5957",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 11,
+                "start": 9
+            }
+        ]
+    },
+    {
+        "id": "5958",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5959",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5961",
+        "matter_id": 9,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5155",
+        "matter_id": 10,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 4,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "5156",
+        "matter_id": 10,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 7,
+                "start": 4
+            }
+        ]
+    },
+    {
+        "id": "5157",
+        "matter_id": 10,
+        "modality": "Presencial",
+        "schedule": []
+    },
+    {
+        "id": "6123",
+        "matter_id": 11,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 9,
+                "start": 7
+            },
+            {
+                "day": 2,
+                "end": 9,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5698",
+        "matter_id": 12,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5699",
+        "matter_id": 12,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 16,
+                "start": 13
+            }
+        ]
+    },
+    {
+        "id": "5700",
+        "matter_id": 12,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5701",
+        "matter_id": 12,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5936",
+        "matter_id": 13,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 13,
+                "start": 11
+            },
+            {
+                "day": 2,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5937",
+        "matter_id": 13,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 4,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5235",
+        "matter_id": 14,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 16,
+                "start": 14
+            },
+            {
+                "day": 1,
+                "end": 18,
+                "start": 15
+            }
+        ]
+    },
+    {
+        "id": "5237",
+        "matter_id": 14,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5243",
+        "matter_id": 15,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 13,
+                "start": 10
+            },
+            {
+                "day": 4,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5244",
+        "matter_id": 15,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5114",
+        "matter_id": 16,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5986",
+        "matter_id": 16,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5987",
+        "matter_id": 16,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5988",
+        "matter_id": 16,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5989",
+        "matter_id": 16,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 9,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "6124",
+        "matter_id": 17,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 4,
+                "start": 0
+            }
+        ]
+    },
+    {
+        "id": "5714",
+        "matter_id": 18,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5715",
+        "matter_id": 18,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5716",
+        "matter_id": 18,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5717",
+        "matter_id": 18,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5718",
+        "matter_id": 18,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5391",
+        "matter_id": 19,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 18,
+                "start": 16
+            },
+            {
+                "day": 4,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5392",
+        "matter_id": 19,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5249",
+        "matter_id": 20,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 13,
+                "start": 10
+            },
+            {
+                "day": 4,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5250",
+        "matter_id": 20,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5247",
+        "matter_id": 21,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 18,
+                "start": 16
+            },
+            {
+                "day": 2,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5248",
+        "matter_id": 21,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 4,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5129",
+        "matter_id": 22,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 9,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5130",
+        "matter_id": 22,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 11,
+                "start": 9
+            }
+        ]
+    },
+    {
+        "id": "5131",
+        "matter_id": 22,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5091",
+        "matter_id": 23,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5092",
+        "matter_id": 23,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5224",
+        "matter_id": 24,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5225",
+        "matter_id": 24,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5226",
+        "matter_id": 24,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5227",
+        "matter_id": 24,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5228",
+        "matter_id": 24,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "6125",
+        "matter_id": 25,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 8,
+                "start": 4
+            }
+        ]
+    },
+    {
+        "id": "5704",
+        "matter_id": 26,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5705",
+        "matter_id": 26,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5253",
+        "matter_id": 27,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 13,
+                "start": 11
+            },
+            {
+                "day": 2,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5254",
+        "matter_id": 27,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 8
+            }
+        ]
+    },
+    {
+        "id": "5255",
+        "matter_id": 28,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 18,
+                "start": 15
+            },
+            {
+                "day": 1,
+                "end": 18,
+                "start": 15
+            }
+        ]
+    },
+    {
+        "id": "5256",
+        "matter_id": 28,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5176",
+        "matter_id": 29,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 12,
+                "start": 10
+            },
+            {
+                "day": 3,
+                "end": 16,
+                "start": 13
+            }
+        ]
+    },
+    {
+        "id": "5189",
+        "matter_id": 29,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "6024",
+        "matter_id": 29,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 4,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6037",
+        "matter_id": 30,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "6038",
+        "matter_id": 30,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "6039",
+        "matter_id": 30,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6040",
+        "matter_id": 30,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6041",
+        "matter_id": 30,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "6042",
+        "matter_id": 30,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "6049",
+        "matter_id": 31,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6050",
+        "matter_id": 31,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6051",
+        "matter_id": 31,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 16,
+                "start": 14
+            },
+            {
+                "day": 3,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5257",
+        "matter_id": 32,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 11,
+                "start": 8
+            },
+            {
+                "day": 2,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5258",
+        "matter_id": 32,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 2,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5264",
+        "matter_id": 33,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5259",
+        "matter_id": 34,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 13,
+                "start": 10
+            },
+            {
+                "day": 3,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "5260",
+        "matter_id": 34,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 4,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5261",
+        "matter_id": 35,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5096",
+        "matter_id": 36,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5097",
+        "matter_id": 36,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5287",
+        "matter_id": 37,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5285",
+        "matter_id": 38,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 18,
+                "start": 16
+            },
+            {
+                "day": 2,
+                "end": 18,
+                "start": 15
+            }
+        ]
+    },
+    {
+        "id": "5286",
+        "matter_id": 38,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5271",
+        "matter_id": 39,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 18,
+                "start": 16
+            },
+            {
+                "day": 3,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5288",
+        "matter_id": 39,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 5,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5100",
+        "matter_id": 40,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5101",
+        "matter_id": 40,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5199",
+        "matter_id": 41,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 3,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5598",
+        "matter_id": 41,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 11,
+                "start": 9
+            },
+            {
+                "day": 3,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5604",
+        "matter_id": 41,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5292",
+        "matter_id": 42,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5289",
+        "matter_id": 43,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 13,
+                "start": 10
+            },
+            {
+                "day": 2,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5290",
+        "matter_id": 43,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5291",
+        "matter_id": 44,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 4,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5293",
+        "matter_id": 45,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5294",
+        "matter_id": 46,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5297",
+        "matter_id": 47,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 18,
+                "start": 16
+            },
+            {
+                "day": 4,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5298",
+        "matter_id": 47,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5296",
+        "matter_id": 48,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 22,
+                "start": 20
+            },
+            {
+                "day": 4,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5295",
+        "matter_id": 49,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5303",
+        "matter_id": 50,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 21,
+                "start": 18
+            },
+            {
+                "day": 3,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5301",
+        "matter_id": 51,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            },
+            {
+                "day": 2,
+                "end": 21,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6057",
+        "matter_id": 52,
+        "modality": "Mixto",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 18,
+                "start": 16
+            },
+            {
+                "day": 3,
+                "end": 9,
+                "start": 6
+            },
+            {
+                "day": 4,
+                "end": 11,
+                "start": 8
+            }
+        ]
+    },
+    {
+        "id": "5302",
+        "matter_id": 53,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 10,
+                "start": 7
+            }
+        ]
+    },
+    {
+        "id": "5299",
+        "matter_id": 54,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 13,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5304",
+        "matter_id": 55,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5300",
+        "matter_id": 56,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 17,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "6010",
+        "matter_id": 57,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "6011",
+        "matter_id": 57,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 13,
+                "start": 11
+            }
+        ]
+    },
+    {
+        "id": "6006",
+        "matter_id": 58,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "6007",
+        "matter_id": 58,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "6012",
+        "matter_id": 59,
+        "modality": "Mediada",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6013",
+        "matter_id": 59,
+        "modality": "Mediada",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5167",
+        "matter_id": 60,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5168",
+        "matter_id": 60,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6156",
+        "matter_id": 61,
+        "modality": "Mediada",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "6157",
+        "matter_id": 61,
+        "modality": "Mediada",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5240",
+        "matter_id": 62,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5241",
+        "matter_id": 62,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5081",
+        "matter_id": 63,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 12,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5082",
+        "matter_id": 63,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "5083",
+        "matter_id": 64,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 12,
+                "start": 10
+            }
+        ]
+    },
+    {
+        "id": "5084",
+        "matter_id": 64,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5245",
+        "matter_id": 65,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5246",
+        "matter_id": 65,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5873",
+        "matter_id": 66,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 0,
+                "end": 22,
+                "start": 20
+            }
+        ]
+    },
+    {
+        "id": "5108",
+        "matter_id": 67,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 3,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "5183",
+        "matter_id": 68,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 3,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "5184",
+        "matter_id": 68,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 5,
+                "start": 3
+            }
+        ]
+    },
+    {
+        "id": "5192",
+        "matter_id": 69,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 17,
+                "start": 15
+            }
+        ]
+    },
+    {
+        "id": "5193",
+        "matter_id": 69,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 19,
+                "start": 17
+            }
+        ]
+    },
+    {
+        "id": "5643",
+        "matter_id": 70,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 3,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "5791",
+        "matter_id": 71,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 13,
+                "start": 9
+            }
+        ]
+    },
+    {
+        "id": "5216",
+        "matter_id": 72,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 3,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "5217",
+        "matter_id": 72,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 6,
+                "end": 5,
+                "start": 3
+            }
+        ]
+    },
+    {
+        "id": "6143",
+        "matter_id": 73,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5871",
+        "matter_id": 74,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6004",
+        "matter_id": 75,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 2,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "6005",
+        "matter_id": 75,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 4,
+                "end": 16,
+                "start": 14
+            }
+        ]
+    },
+    {
+        "id": "5305",
+        "matter_id": 76,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    },
+    {
+        "id": "6066",
+        "matter_id": 76,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 1,
+                "end": 18,
+                "start": 16
+            }
+        ]
+    },
+    {
+        "id": "5932",
+        "matter_id": 77,
+        "modality": "Virtual",
+        "schedule": [
+            {
+                "day": 5,
+                "end": 3,
+                "start": 1
+            }
+        ]
+    },
+    {
+        "id": "6147",
+        "matter_id": 78,
+        "modality": "Presencial",
+        "schedule": [
+            {
+                "day": 3,
+                "end": 20,
+                "start": 18
+            }
+        ]
+    }
+]

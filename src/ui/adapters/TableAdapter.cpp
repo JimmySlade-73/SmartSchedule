@@ -9,16 +9,6 @@ std::vector<sf::Text> tableAdapter(
 }
 
 std::vector<std::vector<sf::Text>> tableAdapter(
-    const std::vector<TableEntry*>& entry, const sf::Font& font, int size_font)
-{
-    std::vector<std::vector<sf::Text>> texts;
-    for (const auto& sub : entry) {
-        texts.push_back(tableAdapter(sub->getFields(), font, size_font));
-    }
-    return texts;
-}
-
-std::vector<std::vector<sf::Text>> tableAdapter(
     const std::vector<std::vector<std::string>>& strings, const sf::Font& font, int size_font)
 {
     std::vector<std::vector<sf::Text>> texts;

@@ -12,7 +12,7 @@ Schedule::Schedule(App& app_instance) : State(app_instance)
     schedule.setSize(app.getSizeByPercent(1.f, 7.f/8));
     schedule.setSizeRow(size_row);
     schedule.setProportions({1, 1, 1, 1, 1, 1, 1, 1});
-    schedule.setHeaders(tableAdapter(Subject::getHeadersSchedule(), font, size_font));
+    schedule.setHeaders(tableAdapter(app.getEngine().getHeadersSchedule(), font, size_font));
     schedule.setTexts(tableAdapter(app.getEngine().getSchedule(7, 22), font, size_font));
     schedule.setBodyFunc(true, true);
 

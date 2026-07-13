@@ -28,7 +28,7 @@ bool haveCollision(TimeBlock block1, TimeBlock block2)
 
 bool haveCollision(Subject sub1, Subject sub2)
 {
-    if (sub1.name == sub2.name) return true;
+    if (sub1.matter_id == sub2.matter_id) return true;
     for (auto& block1 : sub1.schedule) {
         for (auto& block2 : sub2.schedule) {
             if (haveCollision(block1, block2)) return true;

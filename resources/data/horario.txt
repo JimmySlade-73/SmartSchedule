@@ -158,4 +158,9 @@ Electiva Interdisciplinar Cultura De Paz 5217 . . . . . . 03..05 Virtual
 Electiva Interdisciplinar Frances 6143 . . . . 16..18 . . Presencial
 Electiva Interdisciplinar Finanzas Personales Y Proyecto 5871 . 18..20 . . . . . Presencial
 Electiva Interdisciplinar Futbol 6004 . . 14..16 . . . . Presencial
+Semestre Curso Académico Nº Clase Lun Mar Mie Jue Vie Sab Dom Equiv Modalidad
 Electiva Interdisciplinar Futbol 6005 . . . . 14..16 . . Presencial
+Electiva Interdisciplinar Power Skills: Habilidades Para 5305 . 18..20 . . . . . Presencial
+Electiva Interdisciplinar Power Skills: Habilidades Para 6066 . 16..18 . . . . . Presencial
+Electiva Interdisciplinar Introd. A La Ciencia De Datos 5932 . . . . . 01..03 . Virtual
+Electiva Interdisciplinar Inteligencia Emocional 6147 . . . 18..20 . . . Presencial

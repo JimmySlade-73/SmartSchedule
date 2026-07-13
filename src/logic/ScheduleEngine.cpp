@@ -8,9 +8,11 @@
 
 void ScheduleEngine::loadData(const std::string& path)
 {
-    std::ifstream file(path);
+    persistence.extractPDF(path);
+    std::string txt = "../resources/data/horario.txt";
+    std::ifstream file(txt);
     if (!file.is_open()) {
-        std::cerr << "Error; No se pudo abrir el archivo " << path << std::endl;
+        std::cerr << "Error; No se pudo abrir el archivo " << txt << std::endl;
         return;
     }
 
@@ -42,23 +44,28 @@ void ScheduleEngine::loadData(const std::string& path)
 
         s.id = temp.at(temp.size() - 2 - static_cast<int>(Day::TotalDays));
 
-        s.semester = (temp.at(0) == "Electiva") ? 11 : std::stoi(temp.at(0));
-        s.semesterTag = temp.at(0);
-
         std::string name("");
         for (int i = 1; i < temp.size() - 2 - static_cast<int>(Day::TotalDays); i++) {
             name += (i > 1 ? " " : "") + temp.at(i);
         }
-        s.name = name;
+        s.matter_id = all_matter.insert(name, temp.at(0));
         all_records.push_back(s);
+    }
+}
+
+void ScheduleEngine::debugCMD_General()
+{
+    for (auto& s : all_records) {
+        // print
+        auto matter = all_matter.getById(s.matter_id);
         std::cout << "ID: " << s.id
         << "|Modality: " << s.modality
-        << "|Name: " << s.name;
+        << "|Name: " << matter->name;
         std::cout << "|Horario: ";
         for (const auto& sch : s.schedule){
             std::cout << sch;
         }
-        std:: cout << "|semestre: " << s.semesterTag
+        std::cout << "|semestre: " << matter->semesterTag
         << std::endl;
     }
 }
@@ -69,12 +76,40 @@ std::vector<TableEntry*> ScheduleEngine::getAll() {
     return ptrs;
 }
 
+std::vector<std::vector<std::string>> ScheduleEngine::getAllStr()
+{
+    std::vector<std::vector<std::string>> result;
+    for (auto& s : all_records) {
+        std::vector<std::string> row;
+        auto matter = all_matter.getById(s.matter_id);
+        
+        row.push_back(matter->semesterTag);
+        row.push_back(s.id);
+        row.push_back(matter->name);
+        row.push_back(s.modality);
+        auto day_fields = s.getScheduleFields();
+        row.insert(row.end(), day_fields.begin(), day_fields.end());
+
+        result.push_back(row);
+    }
+    return result;
+}
+
+std::vector<std::string> ScheduleEngine::getCompletedMatters()
+{
+    std::vector<std::string> completed;
+    for (auto& id : profile.getCompleted()) {
+        completed.push_back(all_matter.getById(id)->name);
+    }
+    return completed;
+}
+
 std::vector<int> ScheduleEngine::getFiltred()
 {
     std::vector<int> filtred;
     for (int i = 0; i < all_records.size(); i++) {
         bool is_compatible = true;
-        for (int index : selected) {
+        for (int index : profile.getSelected()) {
             if (haveCollision(all_records.at(i), all_records.at(index))){
                 is_compatible = false;
                 break;
@@ -82,8 +117,8 @@ std::vector<int> ScheduleEngine::getFiltred()
         }
         if (is_compatible) filtred.push_back(i);
     }
-    for (std::string str : completed_matters) {
-        std::erase_if(filtred, [this, &str](const int& n){ return str == all_records.at(n).name; });
+    for (int m : profile.getCompleted()) {
+        std::erase_if(filtred, [this, &m](const int& n){ return m == all_records.at(n).matter_id; });
     }
     return filtred;
 }
@@ -100,12 +135,12 @@ std::vector<std::vector<std::string>> ScheduleEngine::getSchedule(int start, int
                 hour.push_back(str);
                 continue;
             }
-            for (int index : selected) {
+            for (int index : profile.getSelected()) {
                 for (auto block : all_records.at(index).schedule) {
                     if (haveCollision(block, {static_cast<Day>(i), h, h + 1})) {
                         
                         str += "";
-                        str += all_records.at(index).name;
+                        str += all_matter.getById(all_records.at(index).matter_id)->name;
                     }
                 }
             }
@@ -125,34 +160,20 @@ std::vector<std::vector<std::string>> ScheduleEngine::getSchedule(int start, int
 
 void ScheduleEngine::save(const std::string& path)
 {
-    std::cout << "Saving to: "
-              << std::filesystem::absolute(path)
-              << '\n';
-
-    json data = {
-        {"all_records"      , all_records},
-        {"selected"         , selected},
-        {"completed_matters", completed_matters}
-    };
-    std::ofstream file(path);
-    if (!file.is_open()) {
-        std::cerr << "Could not create file: " << path << std::endl;
-        return;
-    }
-    file << data.dump(4);
+    auto path1 = path + "profile.json";
+    persistence.save(profile, path1);
+    auto path2 = path + "all_matter.json";
+    persistence.save(all_matter, path2);
+    auto path3 = path + "all_records.json";
+    persistence.save(all_records, path3);
 }
 
 void ScheduleEngine::load(const std::string& path)
 {
-    std::cout << "Loading to: "
-              << std::filesystem::absolute(path)
-              << '\n';
-        
-    std::ifstream file(path);
-    if (!file.is_open()) return;
-
-    json data = json::parse(file);
-    all_records       = data["all_records"].get<std::vector<Subject>>();
-    selected          = data["selected"].get<std::vector<int>>();
-    completed_matters = data["completed_matters"].get<std::vector<std::string>>();
+    auto path1 = path + "profile.json";
+    persistence.load(profile, path1);
+    auto path2 = path + "all_matter.json";
+    persistence.load(all_matter, path2);
+    auto path3 = path + "all_records.json";
+    persistence.load(all_records, path3);
 }

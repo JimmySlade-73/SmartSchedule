@@ -64,18 +64,19 @@ SelectSchedule::SelectSchedule(App& app_instance) : State(app_instance)
     tables["filtred"] = std::make_unique<TableWidget>();
     tables["filtred"]->setSize(app.getSizeByPercent(1.f/2, 1.f));
     tables["filtred"]->setSizeRow(size_row);
-    tables["filtred"]->setHeaders(tableAdapter(Subject::getHeaders(), font, size_font));
+    tables["filtred"]->setHeaders(tableAdapter(app.getEngine().getHeaders(), font, size_font));
     tables["filtred"]->setProportions(proportions);
-    tables["filtred"]->setTexts(tableAdapter(app.getEngine().getAll(), font, size_font));
+    tables["filtred"]->setTexts(tableAdapter(app.getEngine().getAllStr(), font, size_font));
     tables["filtred"]->setBodyFunc(true, true);
+    
     tables["selected"] = std::make_unique<TableWidget>();
     tables["selected"]->setPosition(app.getSizeByPercent(1.f/2, 0.f));
     tables["selected"]->setSize(app.getSizeByPercent(1.f/2, 1.f/2));
     tables["selected"]->setSizeRow(size_row);
-    tables["selected"]->setHeaders(tableAdapter(Subject::getHeaders(), font, size_font));
+    tables["selected"]->setHeaders(tableAdapter(app.getEngine().getHeaders(), font, size_font));
     tables["selected"]->setProportions(proportions);
     tables["selected"]->filtredByRows(app.getEngine().getSelected());
-    tables["selected"]->setTexts(tableAdapter(app.getEngine().getAll(), font, size_font));
+    tables["selected"]->setTexts(tableAdapter(app.getEngine().getAllStr(), font, size_font));
     tables["selected"]->setBodyFunc(true, true);
 
     tables["selected"]->filtredByRows(app.getEngine().getSelected());
@@ -147,14 +148,14 @@ void SelectSchedule::buttonMatters()
 
 void SelectSchedule::buttonSave()
 {
-    app.getEngine().save("../resources/saves/1.json");
+    app.getEngine().save("../resources/saves/");
     tables["selected"]->filtredByRows(app.getEngine().getSelected());
     tables["filtred"]->filtredByRows(app.getEngine().getFiltred());
 }
 
 void SelectSchedule::buttonLoad()
 {
-    app.getEngine().load("../resources/saves/1.json");
+    app.getEngine().load("../resources/saves/");
     tables["selected"]->filtredByRows(app.getEngine().getSelected());
     tables["filtred"]->filtredByRows(app.getEngine().getFiltred());
 }
